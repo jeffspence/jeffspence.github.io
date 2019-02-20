@@ -7,6 +7,8 @@ layout: home
 
 # hello
 
+![cheesin at the berkeley rose garden](/assets/cheesin.jpg)
+
 i'm a graduate student at uc berkeley in the
 [computational biology graduate group](http://ccb.berkeley.edu)
 advised by [yun s. song](https://people.eecs.berkeley.edu/~yss/).
