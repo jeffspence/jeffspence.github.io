@@ -1,9 +1,21 @@
 ---
 layout: page
-title: software
+title: software and data
 permalink: /software/
 ---
 
+# software:
+[pyrho](#pyrho)  
+[defiNETti](#definetti)  
+
+<br>
+# data:
+[human recombination maps](#fine-scale-human-recombination-maps)  
+[neanderthal introgression calls](#neanderthal-introgression-calls)
+
+<br>
+<br>
+<br>
 # [pyrho](https://github.com/popgenmethods/pyrho)
 __fast inference of fine-scale recombination rates__  
 [pyrho](https://github.com/popgenmethods/pyrho) is a method for inferring
@@ -31,3 +43,30 @@ permutation-invariance) and trains them using
 'simulation-on-the-fly' as described in our
 [paper](http://papers.nips.cc/paper/8078-a-likelihood-free-inference-framework-for-population-genetic-data-using-exchangeable-neural-networks).  named after
 [bruno](https://en.wikipedia.org/wiki/Bruno_de_Finetti).
+
+<br>
+<br>
+<br>
+# [fine-scale human recombination maps](https://drive.google.com/drive/folders/1Tgt_7GsDO0-o02vcYSfwqHFd3JNF6R06)
+__accurate, population-specific fine-scale recombination maps
+for 26 populations__  
+we inferred fine-scale recombination maps for each of the 26 populations
+in phase 3 of the
+[thousand genomes project](http://www.internationalgenome.org/faq/which-populations-are-part-your-study/)
+using our method
+[pyrho](https://github.com/popgenmethods/pyrho).  the maps were
+inferred while taking demography into account and explain patterns of
+ld better than previous recombination maps.  the method and recombination
+maps are described in our
+[preprint](https://doi.org/10.1101/532168).
+
+
+<br>
+<br>
+<br>
+# [neanderthal introgression calls](https://drive.google.com/drive/folders/0B_RxlKHkUXRDflZDd0xWTEVNWVF2OFppUmNka3ZWN19pbU5qVjBVV2lGVVBuQTJkWE5KTDg)
+__posterior probabilities of introgression in modern humans__  
+we called tracts of neanderthal introgression in ceu, chb, and chs using our
+method, [dical-admix](http://dical-admix.sourceforge.net).
+the method and an analysis of the tracts are presented in our
+[paper](https://doi.org/10.1111/mec.14565).

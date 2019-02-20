@@ -4,15 +4,18 @@ title: publications and preprints
 permalink: /publications/
 ---
 for publications with more than a handful of authors, only the (co-)first
-authors are listed. a list of publications is also available through
+authors are listed.   
+a list of publications is also available through
 [google scholar](https://scholar.google.com/citations?user=jMaIpR4AAAAJ&hl=en).
 
+<br>
+<br>
  
 1.   __Spence, J. P.__&#8224; and Song, Y. S. 
     [Inference and analysis of population-specific fine-scale recombination 
     maps across 26 diverse human populations.](https://doi.org/10.1101/532168)
     bioRxiv preprint.
-    
+  
 2.  Chan, J., Perrone, V., __Spence, J. P.__, Mathieson, S., and Song Y. S.
     [A likelihood-free inference framework for population genetic data using
     exchangeable neural networks.](http://papers.nips.cc/paper/8078-a-likelihood-free-inference-framework-for-population-genetic-data-using-exchangeable-neural-networks)
