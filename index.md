@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# hello
+__hello__
 
 ![cheesin at the berkeley rose garden](/assets/cheesin.jpg)
 
