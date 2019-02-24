@@ -16,7 +16,7 @@ a list of publications is also available through
     maps across 26 diverse human populations.](https://doi.org/10.1101/532168)
     bioRxiv preprint.
   
-2.  Chan, J., Perrone, V., __Spence, J. P.__, Mathieson, S., and Song Y. S.
+2.  Chan, J., Perrone, V., __Spence, J. P.__, Jenkins, P., Mathieson, S., and Song Y. S.
     [A likelihood-free inference framework for population genetic data using
     exchangeable neural networks.](http://papers.nips.cc/paper/8078-a-likelihood-free-inference-framework-for-population-genetic-data-using-exchangeable-neural-networks)
     Advances in Neural Information Processing Systems 31 (NeurIPS 2018).
