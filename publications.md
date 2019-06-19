@@ -10,7 +10,7 @@ a list of publications is also available through
 
 <br>
 <br>
-1.  Steinr&uuml;cken, M., Kamm, Jack, __Spence, J. P.__, and Song, Y. S.
+1.  Steinr&uuml;cken, M., Kamm, J., __Spence, J. P.__, and Song, Y. S.
     [Inference of complex population histories using whole-genome sequences
     from multiple populations.](https://doi.org/10.1101/026591)
     bioRxiv preprint.
