@@ -15,4 +15,4 @@ interested in the intersection of biology, statistics, and computation.
 ![cheesin at the berkeley rose garden](/assets/cheesin.jpg)
 
 feel free to contact me:  
-my email address is [last_name].[full_first_name]@berkeley.edu
+my email address is [last_name].jeffrey@berkeley.edu
