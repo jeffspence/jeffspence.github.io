@@ -10,17 +10,17 @@ a list of publications is also available through
 
 <br>
 <br>
-1.  Steinr&uuml;cken, M., Kamm, J., __Spence, J. P.__, and Song, Y. S.
-    [Inference of complex population histories using whole-genome sequences
-    from multiple populations.](https://doi.org/10.1101/026591)
-    bioRxiv preprint.
-
- 
-2.   __Spence, J. P.__&#8224; and Song, Y. S. 
+1.   __Spence, J. P.__&#8224; and Song, Y. S. 
     [Inference and analysis of population-specific fine-scale recombination 
     maps across 26 diverse human populations.](https://doi.org/10.1101/532168)
     bioRxiv preprint.
-  
+ 
+2.  Steinr&uuml;cken, M., Kamm, J., __Spence, J. P.__, and Song, Y. S.
+    [Inference of complex population histories using whole-genome sequences
+    from multiple populations.](https://doi.org/10.1101/026591)
+    _PNAS_, (in press).
+
+ 
 3.  Chan, J., Perrone, V., __Spence, J. P.__, Jenkins, P., Mathieson, S., and Song Y. S.
     [A likelihood-free inference framework for population genetic data using
     exchangeable neural networks.](http://papers.nips.cc/paper/8078-a-likelihood-free-inference-framework-for-population-genetic-data-using-exchangeable-neural-networks)
