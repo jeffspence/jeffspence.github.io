@@ -13,7 +13,7 @@ a list of publications is also available through
 1.   __Spence, J. P.__&#8224; and Song, Y. S. 
     [Inference and analysis of population-specific fine-scale recombination 
     maps across 26 diverse human populations.](https://doi.org/10.1101/532168)
-    bioRxiv preprint.
+    _Science Advances_, (in press).
  
 2.  Steinr&uuml;cken, M., Kamm, J., __Spence, J. P.__, and Song, Y. S.
     [Inference of complex population histories using whole-genome sequences
