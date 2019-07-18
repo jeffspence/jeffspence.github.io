@@ -6,7 +6,7 @@ permalink: /publications/
 for publications with more than a handful of authors, only the (co-)first
 authors are listed.   
 a list of publications is also available through
-[google scholar](https://scholar.google.com/citations?user=jMaIpR4AAAAJ&hl=en).
+[google scholar](https://scholar.google.com/citations?hl=en&user=jMaIpR4AAAAJ&view_op=list_works&sortby=pubdate)
 
 <br>
 <br>
