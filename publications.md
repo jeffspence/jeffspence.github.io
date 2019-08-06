@@ -17,7 +17,7 @@ a list of publications is also available through
  
 2.  Steinr&uuml;cken, M., Kamm, J., __Spence, J. P.__, and Song, Y. S.
     [Inference of complex population histories using whole-genome sequences
-    from multiple populations.](https://doi.org/10.1101/026591)
+    from multiple populations.](https://doi.org/10.1073/pnas.1905060116)
     _PNAS_, (in press).
 
  
