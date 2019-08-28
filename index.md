@@ -22,4 +22,4 @@ interested in the intersection of biology, statistics, and computation.
 ![cheesin at the berkeley rose garden](/assets/cheesin.jpg)
 
 feel free to contact me:  
-my email address is jspence _*at*_ stanford _*dot*_ edu
+my email address is jspence@stanford.edu
