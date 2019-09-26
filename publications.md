@@ -36,7 +36,7 @@ a list of publications is also available through
     and Song, Y. S. 
     [Model-based detection and analysis of introgressed Neanderthal
     ancestry in modern humans.](https://doi.org/10.1111/mec.14565)
-    _Molecular Ecology_, Vol. 27 No. 19 (2018) 3873-3888.
+    _Molecular Ecology_, Vol. 27, No. 19 (2018) 3873-3888.
 
 *   __Spence, J. P.__, Steinr&uuml;cken, M., Terhorst, J., and Song, Y. S.
     [Inference of population history using coalescent HMMs:
@@ -51,12 +51,12 @@ a list of publications is also available through
 *  Kamm, J. A.\*, __Spence, J. P.__\*, Chan, J., and Song, Y. S.
    [Two-locus likelihoods under variable population size and fine-scale
    recombination rate estimation.](http://dx.doi.org/10.1534/genetics.115.184820)
-   _Genetics_, Vol. 203 No. 3 (2016) 1381-1399.
+   _Genetics_, Vol. 203, No. 3 (2016) 1381-1399.
 
 *  __Spence, J. P.__\*, Kamm, J. A.\*, and Song, Y. S.
    [The site frequency spectrum for general
    coalescents.](http://dx.doi.org/10.1534/genetics.115.184101)
-   _Genetics_, Vol. 202 No. 4 (2016) 1549-1561.
+   _Genetics_, Vol. 202, No. 4 (2016) 1549-1561.
 
 
 _\* indicates equal contribution_  
