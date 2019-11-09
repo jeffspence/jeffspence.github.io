@@ -19,7 +19,7 @@ where i was advised by
 i have been working mainly on problems in population genetics but i am broadly
 interested in the intersection of biology, statistics, and computation.
 
-![cheesin at the berkeley rose garden](/assets/cheesin.jpg)
+![cheesin with the finches](/assets/cheesin.jpg)
 
 feel free to contact me:  
 my email address is jspence@stanford.edu
