@@ -10,7 +10,8 @@ a list of publications is also available through
 
 <br>
 <br>
-*   __Spence, J. P.__&#8224; and Song, Y. S. 
+__2019__
+*   __Spence, J. P.__&#8224; and Song, Y. S.&#8224; 
     [Inference and analysis of population-specific fine-scale recombination 
     maps across 26 diverse human populations.](https://doi.org/10.1126/sciadv.aaw9206)
     _Science Advances_, Vol. 5, No. 10, eaaw9206 (2019).
