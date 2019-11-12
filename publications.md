@@ -21,7 +21,7 @@ __2019__
     from multiple populations.](https://doi.org/10.1073/pnas.1905060116)
     _PNAS_, Vol. 116, No. 34 (2019) 17115-17120.
 
- 
+__2018__ 
 *   Chan, J., Perrone, V., __Spence, J. P.__, Jenkins, P., Mathieson, S., and Song Y. S.
     [A likelihood-free inference framework for population genetic data using
     exchangeable neural networks.](http://papers.nips.cc/paper/8078-a-likelihood-free-inference-framework-for-population-genetic-data-using-exchangeable-neural-networks)
@@ -43,7 +43,7 @@ __2019__
     [Inference of population history using coalescent HMMs:
     review and outlook.](https://doi.org/10.1016/j.gde.2018.07.002)
     _Current Opinion in Genetics & Development_, Vol. 53 (2018) 70-76.
-
+__2016__
 *   Mallick _et al._
     [The Simons Genome Diversity Project: 300 genomes from 142 diverse
     populations.](http://dx.doi.org/10.1038/nature18964)
