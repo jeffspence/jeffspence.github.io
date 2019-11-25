@@ -10,6 +10,13 @@ a list of publications is also available through
 
 <br>
 <br>
+
+_\* indicates equal contribution_  
+_&#8224; indicates corresponding author_
+
+<br>
+<br>
+
 __2019__
 *   __Spence, J. P.__&#8224; and Song, Y. S.&#8224; 
     [Inference and analysis of population-specific fine-scale recombination 
@@ -63,7 +70,3 @@ __2016__
    [The site frequency spectrum for general
    coalescents.](http://dx.doi.org/10.1534/genetics.115.184101)
    _Genetics_, Vol. 202, No. 4 (2016) 1549-1561.
-
-
-_\* indicates equal contribution_  
-_&#8224; indicates corresponding author_
