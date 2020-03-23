@@ -23,7 +23,7 @@ fine-scale recombination maps from sequencing data from unrelated individuals
 while taking demographic history into account.
 it is substantially faster than [LDhat](http://ldhat.sourceforge.net) while 
 attaining comparable or better accuracy. in our
-[preprint](https://doi.org/10.1101/532168)
+[paper](http://dx.doi.org/10.1126/sciadv.aaw9206)
 we use pyrho to infer fine-scale recombination maps for the 26 populations in phase 3
 of the
 [thousand genomes project](http://www.internationalgenome.org/faq/which-populations-are-part-your-study/)
@@ -58,7 +58,7 @@ using our method
 inferred while taking demography into account and explain patterns of
 ld better than previous recombination maps.  the method and recombination
 maps are described in our
-[preprint](https://doi.org/10.1101/532168).
+[paper](http://dx.doi.org/10.1126/sciadv.aaw9206).
 
 
 <br>
