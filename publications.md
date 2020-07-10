@@ -11,8 +11,8 @@ a list of publications is also available through
 <br>
 <br>
 
-_\* indicates equal contribution_  
-_&#8224; indicates corresponding author_
+\* _indicates equal contribution_  
+&#8224; _indicates corresponding author_
 
 <br>
 <br>
