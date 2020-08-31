@@ -3,8 +3,8 @@ layout: page
 title: publications and preprints
 permalink: /publications/
 ---
-for publications with more than a handful of authors, only the (co-)first
-authors are listed.   
+for publications with more than a handful of authors, only the first
+few authors are listed.   
 a list of publications is also available through
 [google scholar](https://scholar.google.com/citations?hl=en&user=jMaIpR4AAAAJ&view_op=list_works&sortby=pubdate)
 
