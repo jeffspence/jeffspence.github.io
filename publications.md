@@ -17,6 +17,12 @@ a list of publications is also available through
 <br>
 <br>
 
+
+__2020__
+*   Naqvi, S.\*, Sleyp, Y.\*, Hoskens, H., Indencleef, K., __Spence, J. P.__, _et al._
+    [Shared heritability of face and brain shape distinct from cognitive traits.](https://www.biorxiv.org/content/10.1101/2020.08.29.269258v1) _(bioRxiv preprint)_
+
+
 __2019__
 *   __Spence, J. P.__&#8224; and Song, Y. S.&#8224; 
     [Inference and analysis of population-specific fine-scale recombination 
