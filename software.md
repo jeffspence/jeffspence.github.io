@@ -59,6 +59,8 @@ inferred while taking demography into account and explain patterns of
 ld better than previous recombination maps.  the method and recombination
 maps are described in our
 [paper](http://dx.doi.org/10.1126/sciadv.aaw9206).
+these recombination maps are also available for use in simulations
+via the wonderful [stdpopsim](https://stdpopsim.readthedocs.io/en/latest/) project.
 
 
 <br>
