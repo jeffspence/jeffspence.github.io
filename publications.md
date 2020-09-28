@@ -12,7 +12,7 @@ a list of publications is also available through
 <br>
 
 \* _indicates equal contribution_  
-&#8224; _indicates corresponding author_
+&#8224; _indicates co-corresponding author_
 
 <br>
 <br>
