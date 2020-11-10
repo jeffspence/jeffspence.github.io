@@ -18,13 +18,13 @@ a list of publications is also available through
 
 
 __2020__
-*   __Spence, J. P.__. [Flexible mean field variational inference using mixtures of
-      non-overlapping exponential families.](https://proceedings.neurips.cc/paper/2020/hash/e3a54649aeec04cf1c13907bc6c5c8aa-Abstract.html)
-      Advances in Neural Information Processing Systems 33 (NeurIPS 2020).
-
 *   Naqvi, S.\*, Sleyp, Y.\*, Hoskens, H., Indencleef, K., __Spence, J. P.__, _et al._
     [Shared heritability of face and brain shape distinct from cognitive traits.](https://www.biorxiv.org/content/10.1101/2020.08.29.269258v1) (_bioRxiv preprint_).
 
+
+#   __Spence, J. P.__. [Flexible mean field variational inference using mixtures of
+      non-overlapping exponential families.](https://proceedings.neurips.cc/paper/2020/hash/e3a54649aeec04cf1c13907bc6c5c8aa-Abstract.html)
+      Advances in Neural Information Processing Systems 33 (NeurIPS 2020).
 
 __2019__
 *   __Spence, J. P.__&#8224; and Song, Y. S.&#8224; 
