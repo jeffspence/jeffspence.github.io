@@ -17,9 +17,9 @@ a list of publications is also available through
 <br>
 
 
-__preprints__
+__2021__
 *   Naqvi, S.\*, Sleyp, Y.\*, Hoskens, H., Indencleef, K., __Spence, J. P.__, _et al._
-    [Shared heritability of face and brain shape distinct from cognitive traits.](https://www.biorxiv.org/content/10.1101/2020.08.29.269258v1) (_bioRxiv preprint_)
+    [Shared heritability of human face and brain shape.](https://www.biorxiv.org/content/10.1101/2020.08.29.269258v1) _Nature Genetics_ (_accepted_).
 
 
 __2020__
