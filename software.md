@@ -17,7 +17,8 @@ permalink: /software/
 <br>
 <br>
 # [pyrho](https://github.com/popgenmethods/pyrho)
-__fast inference of fine-scale recombination rates__  
+__fast inference of fine-scale recombination rates__ 
+<br>
 [pyrho](https://github.com/popgenmethods/pyrho) is a method for inferring
 fine-scale recombination maps from sequencing data from unrelated individuals
 while taking demographic history into account.
@@ -35,7 +36,8 @@ those maps are available
 <br>
 <br>
 # [defiNETti](https://github.com/popgenmethods/defiNETti)
-__exchangeable neural networks__  
+__exchangeable neural networks__ 
+<br>
 [defiNETti](https://github.com/popgenmethods/defiNETti) is a wrapper for
 [TensorFlow](https://www.tensorflow.org) that automatically builds
 exchangeable neural networks (i.e., networks that enforce
@@ -49,7 +51,8 @@ permutation-invariance) and trains them using
 <br>
 # [fine-scale human recombination maps](https://drive.google.com/drive/folders/1Tgt_7GsDO0-o02vcYSfwqHFd3JNF6R06)
 __accurate, population-specific fine-scale recombination maps
-for 26 populations__  
+for 26 populations__ 
+<br>
 we inferred fine-scale recombination maps for each of the 26 populations
 in phase 3 of the
 [thousand genomes project](http://www.internationalgenome.org/faq/which-populations-are-part-your-study/)
@@ -67,7 +70,8 @@ via the wonderful [stdpopsim](https://stdpopsim.readthedocs.io/en/latest/) proje
 <br>
 <br>
 # [neanderthal introgression calls](https://drive.google.com/drive/folders/0B_RxlKHkUXRDflZDd0xWTEVNWVF2OFppUmNka3ZWN19pbU5qVjBVV2lGVVBuQTJkWE5KTDg)
-__posterior probabilities of introgression in modern humans__  
+__posterior probabilities of introgression in modern humans__ 
+<br>
 we called tracts of neanderthal introgression in ceu, chb, and chs using our
 method, [dical-admix](http://dical-admix.sourceforge.net).
 the method and an analysis of the tracts are presented in our
