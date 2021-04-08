@@ -1,0 +1,32 @@
+TY  - JOUR
+T1  - Model-based detection and analysis of introgressed Neanderthal ancestry in modern humans
+AU  - Steinrücken, Matthias
+AU  - Spence, Jeffrey P.
+AU  - Kamm, John A.
+AU  - Wieczorek, Emilia
+AU  - Song, Yun S.
+Y1  - 2018/10/01
+PY  - 2018
+DA  - 2018/10/01
+N1  - https://doi.org/10.1111/mec.14565
+DO  - https://doi.org/10.1111/mec.14565
+T2  - Molecular Ecology
+JF  - Molecular Ecology
+JO  - Molecular Ecology
+JA  - Mol Ecol
+SP  - 3873
+EP  - 3888
+VL  - 27
+IS  - 19
+KW  - archaic hominin introgression
+KW  - molecular evolution
+KW  - population genetics
+KW  - speciation
+PB  - John Wiley & Sons, Ltd
+SN  - 0962-1083
+M3  - https://doi.org/10.1111/mec.14565
+UR  - https://doi.org/10.1111/mec.14565
+Y2  - 2021/04/08
+N2  - Abstract Genetic evidence has revealed that the ancestors of modern human populations outside Africa and their hominin sister groups, notably Neanderthals, exchanged genetic material in the past. The distribution of these introgressed sequence tracts along modern-day human genomes provides insight into the selective forces acting on them and the role of introgression in the evolutionary history of hominins. Studying introgression patterns on the X-chromosome is of particular interest, as sex chromosomes are thought to play a special role in speciation. Recent studies have developed methods to localize introgressed ancestries, reporting long regions that are depleted of Neanderthal introgression and enriched in genes, suggesting negative selection against the Neanderthal variants. On the other hand, enriched Neanderthal ancestry in hair- and skin-related genes suggests that some introgressed variants facilitated adaptation to new environments. Here, we present a model-based introgression detection method called dical-admix. We demonstrate its efficiency and accuracy through extensive simulations and apply it to detect tracts of Neanderthal introgression in modern human individuals from the 1000 Genomes Project. Our findings are largely concordant with previous studies, consistent with weak selection against Neanderthal ancestry. We find evidence that selection against Neanderthal ancestry was due to higher genetic load in Neanderthals resulting from small effective population size, rather than widespread Dobzhansky?Müller incompatibilities (DMIs) that could contribute to reproductive isolation. Moreover, we confirm the previously reported low level of introgression on the X-chromosome, but find little evidence that DMIs contributed to this pattern.
+ID  - steinruecken2018model
+ER  - 

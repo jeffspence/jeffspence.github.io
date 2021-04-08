@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Spence, Jeffrey P
+AU  - Kamm, John A
+AU  - Song, Yun S
+T1  - The Site Frequency Spectrum for General Coalescents
+PY  - 2016
+Y1  - 2016/04/01
+DO  - 10.1534/genetics.115.184101
+JO  - Genetics
+JA  - Genetics
+VL  - 202
+IS  - 4
+SP  - 1549
+EP  - 1561
+SN  - 1943-2631
+AB  - General genealogical processes such as Λ- and Ξ-coalescents, which respectively model multiple and simultaneous mergers, have important applications in studying marine species, strong positive selection, recurrent selective sweeps, strong bottlenecks, large sample sizes, and so on. Recently, there has been significant progress in developing useful inference tools for such general models. In particular, inference methods based on the site frequency spectrum (SFS) have received noticeable attention. Here, we derive a new formula for the expected SFS for general Λ- and Ξ-coalescents, which leads to an efficient algorithm. For time-homogeneous coalescents, the runtime of our algorithm for computing the expected SFS is O(n2), where n is the sample size. This is a factor of n2 faster than the state-of-the-art method. Furthermore, in contrast to existing methods, our method generalizes to time-inhomogeneous Λ- and Ξ-coalescents with measures that factorize as Λ(dx)/ζ(t) and Ξ(dx)/ζ(t), respectively, where ζ denotes a strictly positive function of time. The runtime of our algorithm in this setting is O(n3). We also obtain general theoretical results for the identifiability of the Λ measure when ζ is a constant function, as well as for the identifiability of the function ζ under a fixed Ξ measure.
+Y2  - 4/8/2021
+UR  - https://doi.org/10.1534/genetics.115.184101
+ID  - spence2016site
+ER  - 

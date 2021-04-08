@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Kamm, John A
+AU  - Spence, Jeffrey P
+AU  - Chan, Jeffrey
+AU  - Song, Yun S
+T1  - Two-Locus Likelihoods Under Variable Population Size and Fine-Scale Recombination Rate Estimation
+PY  - 2016
+Y1  - 2016/07/01
+DO  - 10.1534/genetics.115.184820
+JO  - Genetics
+JA  - Genetics
+VL  - 203
+IS  - 3
+SP  - 1381
+EP  - 1399
+SN  - 1943-2631
+AB  - Two-locus sampling probabilities have played a central role in devising an efficient composite-likelihood method for estimating fine-scale recombination rates. Due to mathematical and computational challenges, these sampling probabilities are typically computed under the unrealistic assumption of a constant population size, and simulation studies have shown that resulting recombination rate estimates can be severely biased in certain cases of historical population size changes. To alleviate this problem, we develop here new methods to compute the sampling probability for variable population size functions that are piecewise constant. Our main theoretical result, implemented in a new software package called LDpop, is a novel formula for the sampling probability that can be evaluated by numerically exponentiating a large but sparse matrix. This formula can handle moderate sample sizes (n≤50) and demographic size histories with a large number of epochs (D≥64). In addition, LDpop implements an approximate formula for the sampling probability that is reasonably accurate and scales to hundreds in sample size (n≥256). Finally, LDpop includes an importance sampler for the posterior distribution of two-locus genealogies, based on a new result for the optimal proposal distribution in the variable-size setting. Using our methods, we study how a sharp population bottleneck followed by rapid growth affects the correlation between partially linked sites. Then, through an extensive simulation study, we show that accounting for population size changes under such a demographic model leads to substantial improvements in fine-scale recombination rate estimation.
+Y2  - 4/8/2021
+UR  - https://doi.org/10.1534/genetics.115.184820
+ID  - kamm2016two
+ER  - 

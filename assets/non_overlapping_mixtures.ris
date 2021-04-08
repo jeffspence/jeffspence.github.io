@@ -1,0 +1,17 @@
+TY  - CONF
+AU  - Spence, Jeffrey
+T2  - Advances in Neural Information Processing Systems
+ED  - Larochelle, H.
+ED  - Ranzato, M.
+ED  - Hadsell, R.
+ED  - Balcan, M. F.
+ED  - Lin, H.
+SP  - 19642
+EP  - -19654
+PB  - Curran Associates, Inc.
+T1  - Flexible mean field variational inference using mixtures of non-overlapping exponential families
+UR  - https://proceedings.neurips.cc/paper/2020/file/e3a54649aeec04cf1c13907bc6c5c8aa-Paper.pdf
+VL  - 33
+PY  - 2020
+ID  - spence2020flexible
+ER  - 

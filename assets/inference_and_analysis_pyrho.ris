@@ -1,0 +1,15 @@
+TY  - JOUR
+T1  - Inference and analysis of population-specific fine-scale recombination maps across 26 diverse human populations
+JF  - Science Advances
+JO  - Sci Adv
+DO  - 10.1126/sciadv.aaw9206
+VL  - 5
+IS  - 10
+SP  - eaaw9206
+AU  - Spence, Jeffrey P.
+AU  - Song, Yun S.
+Y1  - 2019/10/01
+UR  - http://advances.sciencemag.org/content/5/10/eaaw9206.abstract
+N2  - Fine-scale rates of meiotic recombination vary by orders of magnitude across the genome and differ between species and even populations. Studying cross-population differences has been stymied by the confounding effects of demographic history. To address this problem, we developed a demography-aware method to infer fine-scale recombination rates and applied it to 26 diverse human populations, inferring population-specific recombination maps. These maps recapitulate many aspects of the history of these populations including signatures of the trans-Atlantic slave trade and the Iberian colonization of the Americas. We also investigated modulators of the local recombination rate, finding further evidence that Polycomb group proteins and the trimethylation of H3K27 elevate recombination rates. Further differences in the recombination landscape across the genome and between populations are driven by variation in the gene that encodes the DNA binding protein PRDM9, and we quantify the weak effect of meiotic drive acting to remove its binding sites.
+ID  - spence2019inference
+ER  - 

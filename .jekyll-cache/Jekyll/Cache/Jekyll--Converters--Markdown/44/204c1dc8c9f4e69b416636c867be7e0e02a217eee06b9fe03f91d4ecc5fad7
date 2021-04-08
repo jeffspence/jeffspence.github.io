@@ -1,0 +1,76 @@
+I"M<h1 id="software">software:</h1>
+<p><a href="#pyrho">pyrho</a><br />
+<a href="#definetti">defiNETti</a></p>
+
+<p><br /></p>
+<h1 id="data">data:</h1>
+<p><a href="#fine-scale-human-recombination-maps">human recombination maps</a><br />
+<a href="#neanderthal-introgression-calls">neanderthal introgression calls</a></p>
+
+<p><br />
+<br />
+<br /></p>
+<h1 id="pyrho"><a href="https://github.com/popgenmethods/pyrho">pyrho</a></h1>
+<p><strong>fast inference of fine-scale recombination rates</strong> 
+<br />
+<br />
+<a href="https://github.com/popgenmethods/pyrho">pyrho</a> is a method for inferring
+fine-scale recombination maps from sequencing data from unrelated individuals
+while taking demographic history into account.
+it is substantially faster than <a href="http://ldhat.sourceforge.net">LDhat</a> while 
+attaining comparable or better accuracy. in our
+<a href="http://dx.doi.org/10.1126/sciadv.aaw9206">paper</a>
+we use pyrho to infer fine-scale recombination maps for the 26 populations in phase 3
+of the
+<a href="http://www.internationalgenome.org/faq/which-populations-are-part-your-study/">thousand genomes project</a>
+for the two most recent builds of the human genome (hg19 and hg38).
+those maps are available
+<a href="https://drive.google.com/drive/folders/1Tgt_7GsDO0-o02vcYSfwqHFd3JNF6R06">here</a>.</p>
+
+<p><br />
+<br />
+<br /></p>
+<h1 id="definetti"><a href="https://github.com/popgenmethods/defiNETti">defiNETti</a></h1>
+<p><strong>exchangeable neural networks</strong> 
+<br />
+<br />
+<a href="https://github.com/popgenmethods/defiNETti">defiNETti</a> is a wrapper for
+<a href="https://www.tensorflow.org">TensorFlow</a> that automatically builds
+exchangeable neural networks (i.e., networks that enforce
+permutation-invariance) and trains them using
+‘simulation-on-the-fly’ as described in our
+<a href="http://papers.nips.cc/paper/8078-a-likelihood-free-inference-framework-for-population-genetic-data-using-exchangeable-neural-networks">paper</a>.  named after
+<a href="https://en.wikipedia.org/wiki/Bruno_de_Finetti">bruno</a>.</p>
+
+<p><br />
+<br />
+<br /></p>
+<h1 id="fine-scale-human-recombination-maps"><a href="https://drive.google.com/drive/folders/1Tgt_7GsDO0-o02vcYSfwqHFd3JNF6R06">fine-scale human recombination maps</a></h1>
+<p><strong>accurate, population-specific fine-scale recombination maps
+for 26 populations</strong> 
+<br />
+<br />
+we inferred fine-scale recombination maps for each of the 26 populations
+in phase 3 of the
+<a href="http://www.internationalgenome.org/faq/which-populations-are-part-your-study/">thousand genomes project</a>
+using our method
+<a href="https://github.com/popgenmethods/pyrho">pyrho</a>.  the maps were
+inferred while taking demography into account and explain patterns of
+ld better than previous recombination maps.  the method and recombination
+maps are described in our
+<a href="http://dx.doi.org/10.1126/sciadv.aaw9206">paper</a>.
+these recombination maps are also available for use in simulations
+via the wonderful <a href="https://stdpopsim.readthedocs.io/en/latest/">stdpopsim</a> project.</p>
+
+<p><br />
+<br />
+<br /></p>
+<h1 id="neanderthal-introgression-calls"><a href="https://drive.google.com/drive/folders/0B_RxlKHkUXRDflZDd0xWTEVNWVF2OFppUmNka3ZWN19pbU5qVjBVV2lGVVBuQTJkWE5KTDg">neanderthal introgression calls</a></h1>
+<p><strong>posterior probabilities of introgression in modern humans</strong> 
+<br />
+<br />
+we called tracts of neanderthal introgression in ceu, chb, and chs using our
+method, <a href="http://dical-admix.sourceforge.net">dical-admix</a>.
+the method and an analysis of the tracts are presented in our
+<a href="https://doi.org/10.1111/mec.14565">paper</a>.</p>
+:ET

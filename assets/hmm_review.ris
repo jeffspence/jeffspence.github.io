@@ -1,0 +1,19 @@
+TY  - JOUR
+T1  - Inference of population history using coalescent HMMs: review and outlook
+AU  - Spence, Jeffrey P
+AU  - Steinrücken, Matthias
+AU  - Terhorst, Jonathan
+AU  - Song, Yun S
+JO  - Current Opinion in Genetics & Development
+VL  - 53
+SP  - 70
+EP  - 76
+PY  - 2018
+DA  - 2018/12/01/
+T2  - Genetics of Human Origins
+SN  - 0959-437X
+DO  - https://doi.org/10.1016/j.gde.2018.07.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0959437X18300765
+AB  - Studying how diverse human populations are related is of historical and anthropological interest, in addition to providing a realistic null model for testing for signatures of natural selection or disease associations. Furthermore, understanding the demographic histories of other species is playing an increasingly important role in conservation genetics. A number of statistical methods have been developed to infer population demographic histories using whole-genome sequence data, with recent advances focusing on allowing for more flexible modeling choices, scaling to larger data sets, and increasing statistical power. Here we review coalescent hidden Markov models, a powerful class of population genetic inference methods that can utilize linkage disequilibrium information effectively. We highlight recent advances, give advice for practitioners, point out potential pitfalls, and present possible future research directions.
+ID  - spence2018inference
+ER  - 

@@ -1,0 +1,21 @@
+TY  - CONF
+AU  - Chan, Jeffrey
+AU  - Perrone, Valerio
+AU  - Spence, Jeffrey
+AU  - Jenkins, Paul
+AU  - Mathieson, Sara
+AU  - Song, Yun
+T2  - Advances in Neural Information Processing Systems
+ED  - Bengio, S.
+ED  - Wallach, H.
+ED  - Larochelle, H.
+ED  - Grauman, K.
+ED  - Cesa-Bianchi, N.
+ED  - Garnett, R.
+PB  - Curran Associates, Inc.
+T1  - A Likelihood-Free Inference Framework for Population Genetic Data using Exchangeable Neural Networks
+UR  - https://proceedings.neurips.cc/paper/2018/file/2e9f978b222a956ba6bdf427efbd9ab3-Paper.pdf
+VL  - 31
+PY  - 2018
+ID  - chan2018likelihood
+ER  - 
