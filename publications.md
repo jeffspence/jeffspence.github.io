@@ -16,7 +16,7 @@ a list of publications is also available through
 <br>
 <br>
 __preprints__
-*   Aw, A. J., __Spence, J. P.__, Song, Y. S.
+*   Aw, A. J., __Spence, J. P.__, and Song, Y. S.
     [A flexible and robust non-parametric test of exchangeability.](https://arxiv.org/abs/2109.15261) _arXiv preprint_.
 
 
