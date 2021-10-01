@@ -18,6 +18,9 @@ a list of publications is also available through
 
 
 __2021__
+*   Aw, A. J., __Spence, J. P.__, Song, Y. S.
+    [A flexible and robust non-parametric test of exchangeability.](https://arxiv.org/abs/2109.15261) _arXiv preprint_ (2021).
+
 *   Naqvi, S.\*, Sleyp, Y.\*, Hoskens, H., Indencleef, K., __Spence, J. P.__, _et al._
     [Shared heritability of human face and brain shape.](https://doi.org/10.1038/s41588-021-00827-w) _Nature Genetics_ (2021).
     [\[.pdf\]](/assets/shared_heritability_of_human_face_and_brain_shape.pdf)
@@ -43,7 +46,7 @@ __2019__
     [\[supplement\]](/assets/inference_and_analysis_pyrho_supp.pdf)
     [\[.ris\]](/assets/inference_and_analysis_pyrho.ris)
     [\[method: pyrho\]](https://github.com/popgenmethods/pyrho/)
- 
+
 *   Steinr&uuml;cken, M., Kamm, J., __Spence, J. P.__, and Song, Y. S.
     [Inference of complex population histories using whole-genome sequences
     from multiple populations.](https://doi.org/10.1073/pnas.1905060116)
