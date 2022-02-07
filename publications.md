@@ -17,7 +17,7 @@ a list of publications is also available through
 <br>
 <br>
 __preprints__
-*  Czech, L.\*, Peng, Y.\*, __Spence, J. P.__, _et al._[Monitoring rapid evolution of plant populations at scale with Pool-sequencing](https://doi.org/10.1101/2022.02.02.477408) _bioRxiv preprint_.
+*  Czech, L.\*, Peng, Y.\*, __Spence, J. P.__, _et al._ [Monitoring rapid evolution of plant populations at scale with Pool-sequencing](https://doi.org/10.1101/2022.02.02.477408) _bioRxiv preprint_.
 
 *  Patel, R. A.\*, Musharoff, S. A.\*, __Spence, J. P.__, _et al._
    [Effect sizes of causal variants for gene expression and complex traits differ between populations.](https://doi.org/10.1101/2021.12.06.471235) _bioRxiv preprint_.
