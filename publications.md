@@ -17,9 +17,10 @@ a list of publications is also available through
 <br>
 <br>
 __preprints__
+*  Czech, L.\*, Peng, Y.\*, __Spence, J. P.__, _et al._[Monitoring rapid evolution of plant populations at scale with Pool-sequencing](https://doi.org/10.1101/2022.02.02.477408) _bioRxiv preprint_.
+
 *  Patel, R. A.\*, Musharoff, S. A.\*, __Spence, J. P.__, _et al._
    [Effect sizes of causal variants for gene expression and complex traits differ between populations.](https://doi.org/10.1101/2021.12.06.471235) _bioRxiv preprint_.
-
 
 *  Exposito-Alonso, M., Booker, T. R.<sup>&amp;</sup>, Czech, L.<sup>&amp;</sup>, Fukami, T.<sup>&amp;</sup>, Gillespie, L.<sup>&amp;</sup>, Hately, S.<sup>&amp;</sup>, Kyriazis, C. C.<sup>&amp;</sup>, Lang, P.<sup>&amp;</sup>, Leventhal, L.<sup>&amp;</sup>, Nogues-Bravo, D.<sup>&amp;</sup>, Pagowski, V.<sup>&amp;</sup>, Ruffley, M.<sup>&amp;</sup>, __Spence, J. P.__<sup>&amp;</sup>, Toro Arana, S. E.<sup>&amp;</sup>, Weiss, C. L.<sup>&amp;</sup>, Zess, E.<sup>&amp;</sup>  [Quantifying the scale of genetic diversity extinction in the Anthropocene.](https://doi.org/10.1101/2021.10.13.464000) _bioRxiv preprint_.
 
