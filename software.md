@@ -5,6 +5,7 @@ permalink: /software/
 ---
 
 # software:
+[vilma](#vilma)
 [pyrho](#pyrho)  
 [defiNETti](#definetti)  
 
@@ -12,6 +13,18 @@ permalink: /software/
 # data:
 [human recombination maps](#fine-scale-human-recombination-maps)  
 [neanderthal introgression calls](#neanderthal-introgression-calls)
+<br>
+<br>
+<br>
+# [vilma](https://github.com/jeffspence/vilma)
+__polygenic scores using variational inference on gwas summary statistics from multiple cohorts__
+<br>
+<br>
+[vilma](https://github.com/jeffspence/vilma) is a method for building
+polygenic scores and inferring effect size distributions (genetic archtecture)
+from gwas summary statistics and ld reference panels. vilma can be applied
+to one or two cohorts. vilma is described in this
+[paper](https://www.biorxiv.org/content/10.1101/2022.04.18.488696v1)
 
 <br>
 <br>
