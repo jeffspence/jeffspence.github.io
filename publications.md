@@ -18,7 +18,7 @@ a list of publications is also available through
 <br>
 
 __preprints__
-*  __Spence, J. P.__&#8224, Sinnott-Armstrong, N., Assimes, T., and Pritchard, J. K.&#8224 [A flexible modeling and inference framework for estimating variant effect sizes from GWAS summary statistics](https://www.biorxiv.org/content/10.1101/2022.04.18.488696v1) _bioRxiv preprint_.
+*  __Spence, J. P.__&#8224;, Sinnott-Armstrong, N., Assimes, T., and Pritchard, J. K.&#8224; [A flexible modeling and inference framework for estimating variant effect sizes from GWAS summary statistics](https://www.biorxiv.org/content/10.1101/2022.04.18.488696v1) _bioRxiv preprint_.
 
 *  Moots, H. M., Antonio, M. L.\*, Sawyer, S.\*, __Spence, J. P.__\*, Oberreiter, V.\*, Weiß, C. L.\*, Lucci, M.\*, _et al._ [A Genetic History of Continuity and Mobility in the Iron Age Central
 Mediterranean.](https://www.biorxiv.org/content/10.1101/2022.03.13.483276v1) _bioRxiv preprint_.
