@@ -18,6 +18,8 @@ a list of publications is also available through
 <br>
 
 __preprints__
+* Antonio, M. L.\*, Weiß, C. L.\*, Gao, Z.\*, Sawyer, S.\*, Oberreiter, V, Moots, H. M., __Spence, J. P.__, _et al._ [Stable population structure in Europe since the Iron Age, despite high mobility](https://www.biorxiv.org/content/10.1101/2022.05.15.491973v1) _bioRxiv preprint_.
+
 * Mostafavi, H.&#8224;, __Spence, J. P.__, Naqvi, S., and Pritchard, J. K.&#8224;.  [Limited overlap of eQTLs and GWAS hits due to systematic differences in discovery.](https://www.biorxiv.org/content/10.1101/2022.05.07.491045v1) _bioRxiv preprint_.
 
 *  __Spence, J. P.__&#8224;, Sinnott-Armstrong, N., Assimes, T., and Pritchard, J. K.&#8224; [A flexible modeling and inference framework for estimating variant effect sizes from GWAS summary statistics.](https://doi.org/10.1101/2022.04.18.488696) _bioRxiv preprint_.
