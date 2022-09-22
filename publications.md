@@ -31,12 +31,16 @@ Mediterranean.](https://doi.org/10.1101/2022.03.13.483276) _bioRxiv preprint_.
 
 *  Czech, L.\*, Peng, Y.\*, __Spence, J. P.__, _et al._ [Monitoring rapid evolution of plant populations at scale with Pool-sequencing.](https://doi.org/10.1101/2022.02.02.477408) _bioRxiv preprint_.
 
-*  Exposito-Alonso, M., Booker, T. R.<sup>&amp;</sup>, Czech, L.<sup>&amp;</sup>, Fukami, T.<sup>&amp;</sup>, Gillespie, L.<sup>&amp;</sup>, Hately, S.<sup>&amp;</sup>, Kyriazis, C. C.<sup>&amp;</sup>, Lang, P.<sup>&amp;</sup>, Leventhal, L.<sup>&amp;</sup>, Nogues-Bravo, D.<sup>&amp;</sup>, Pagowski, V.<sup>&amp;</sup>, Ruffley, M.<sup>&amp;</sup>, __Spence, J. P.__<sup>&amp;</sup>, Toro Arana, S. E.<sup>&amp;</sup>, Weiß, C. L.<sup>&amp;</sup>, Zess, E.<sup>&amp;</sup>  [Quantifying the scale of genetic diversity extinction in the Anthropocene.](https://doi.org/10.1101/2021.10.13.464000) _bioRxiv preprint_.
-
 *   Aw, A. J., __Spence, J. P.__, and Song, Y. S.
     [A flexible and robust non-parametric test of exchangeability.](https://arxiv.org/abs/2109.15261) _arXiv preprint_.
 
 __2022__
+*   Exposito-Alonso, M., Booker, T. R.<sup>&amp;</sup>, Czech, L.<sup>&amp;</sup>, Gillespie, L.<sup>&amp;</sup>, Hately, S.<sup>&amp;</sup>, Kyriazis, C. C.<sup>&amp;</sup>, Lang, P. L. M.<sup>&amp;</sup>, Leventhal, L.<sup>&amp;</sup>, Nogues-Bravo, D.<sup>&amp;</sup>, Pagowski, V.<sup>&amp;</sup>, Ruffley, M.<sup>&amp;</sup>, __Spence, J. P.__<sup>&amp;</sup>, Toro Arana, S. E.<sup>&amp;</sup>, Weiß, C. L.<sup>&amp;</sup>, Zess, E.<sup>&amp;</sup>  [Genetic diversity loss in the Anthropocene.](https://doi.org/10.1126/science.abn5642) _Science_, Vol. 377, Issue 6613 (2022).
+    [\[.pdf\]](/assets/genetic_diversity_loss.pdf)
+    [\[supplement\]](/assets/genetic_diversity_loss_supp.pdf)
+    [\[.ris\]](/assets/genetic_diversity_loss.ris)
+
+
 *   Patel, R. A.\*, Musharoff, S. A.\*, __Spence, J. P.__, _et al._
    [Genetic interactions drive heterogeneity in causal variant effect sizes for gene expression and complex traits.](https://doi.org/10.1016/j.ajhg.2022.05.014) _American Journal of Human Genetics_ (2022).
     [\[.pdf\]](/assets/genetic_interactions.pdf)
@@ -95,7 +99,7 @@ __2018__
     Chan, J.\*, __Spence, J. P.__\*, _et al._ 
     [Early human dispersals within the 
     Americas.](https://doi.org/10.1126/science.aav2621)
-    _Science_, Vol. 362, Issue 6419, eaav2621 (2018).
+    _Science_, Vol. 362, Issue 6419 (2018).
     [\[.pdf\]](/assets/early_human_dispersal_americas.pdf)
     [\[supplement\]](/assets/early_human_dispersal_americas_supp.pdf)
     [\[.ris\]](/assets/early_human_dispersal_americas.ris)
