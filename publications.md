@@ -18,6 +18,8 @@ a list of publications is also available through
 <br>
 
 __preprints__
+*  Lauterbur, M. E., _et al._ [Expanding the stdpopsim catalog, and lessons learned for realistic genome simulations.](https://doi.org/10.1101/2022.10.29.514266) _bioRxiv preprint_.
+
 *  Schreiber, J.\*, Boix, C.\*, _et al._ [The ENCODE Imputation Challenge: A critical assessment of methods for cross-cell type imputation of epigenomic profiles.](https://doi.org/10.1101/2022.07.30.502157) _bioRxiv preprint_.
 
 * Antonio, M. L.\*, Weiß, C. L.\*, Gao, Z.\*, Sawyer, S.\*, Oberreiter, V, Moots, H. M., __Spence, J. P.__, _et al._ [Stable population structure in Europe since the Iron Age, despite high mobility](https://www.biorxiv.org/content/10.1101/2022.05.15.491973v1) _bioRxiv preprint_.
