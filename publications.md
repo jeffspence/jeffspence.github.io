@@ -18,7 +18,7 @@ a list of publications is also available through
 <br>
 
 __preprints__
-*  Rothschild, D.\*, Susanto, T. T.\*, __Spence, J. P.__, Genuth, N. R., Sinnott-Armstrong, N., Pritchard, J. K., and Barna, M.[A comprehensive rRNA variation atlas in health and disease](https://doi.org/10.1101/2023.01.30.526360) _bioRxiv preprint_.
+*  Rothschild, D.\*, Susanto, T. T.\*, __Spence, J. P.__, Genuth, N. R., Sinnott-Armstrong, N., Pritchard, J. K., and Barna, M. [A comprehensive rRNA variation atlas in health and disease](https://doi.org/10.1101/2023.01.30.526360) _bioRxiv preprint_.
 
 *  Lauterbur, M. E., _et al._ [Expanding the stdpopsim catalog, and lessons learned for realistic genome simulations.](https://doi.org/10.1101/2022.10.29.514266) _bioRxiv preprint_.
 
