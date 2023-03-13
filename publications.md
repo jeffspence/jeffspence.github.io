@@ -38,8 +38,17 @@ Mediterranean.](https://doi.org/10.1101/2022.03.13.483276) _bioRxiv preprint_.
 *   Aw, A. J., __Spence, J. P.__, and Song, Y. S.
     [A flexible and robust non-parametric test of exchangeability.](https://arxiv.org/abs/2109.15261) _arXiv preprint_.
 
+
+__2023__
+* Fan, S.\*, __Spence, J. P.__\*, Feng, Y., Hansen, M. E. B., Terhorst, J., Beltrame, M. H., Ranciaro, A., Hirbo, J., Beggs, W., Thomas, N., Nyambo, T., Mpoloka, S. W., Mokone, G. G., Njamnshi, A., Folkunang, C., Meskel, D. W., Belay, G., Song, Y. S., and Tishkoff, S. A. [Whole-genome sequencing reveals a complex African population demographic history and signatures of local adaptation](https://doi.org/10.1016/j.cell.2023.01.042) _Cell_, Vol. 186, Issue 5 (2023).
+    [\[.pdf\]](/assets/whole_genome_sequencing.pdf)
+    [\[.ris\]](/assets/whole_genome_sequencing.ris)
+
+*  Lauterbur, M. E., _et al._ [Expanding the stdpopsim catalog, and lessons learned for realistic genome simulations.](https://doi.org/10.7554/eLife.84874.1) _eLife_ reviewed preprint 2023.
+
+
 __2022__
-*   Exposito-Alonso, M., Booker, T. R.<sup>&amp;</sup>, Czech, L.<sup>&amp;</sup>, Gillespie, L.<sup>&amp;</sup>, Hately, S.<sup>&amp;</sup>, Kyriazis, C. C.<sup>&amp;</sup>, Lang, P. L. M.<sup>&amp;</sup>, Leventhal, L.<sup>&amp;</sup>, Nogues-Bravo, D.<sup>&amp;</sup>, Pagowski, V.<sup>&amp;</sup>, Ruffley, M.<sup>&amp;</sup>, __Spence, J. P.__<sup>&amp;</sup>, Toro Arana, S. E.<sup>&amp;</sup>, Weiß, C. L.<sup>&amp;</sup>, Zess, E.<sup>&amp;</sup>  [Genetic diversity loss in the Anthropocene.](https://doi.org/10.1126/science.abn5642) _Science_, Vol. 377, Issue 6613 (2022).
+*   Exposito-Alonso, M., Booker, T. R.<sup>&amp;</sup>, Czech, L.<sup>&amp;</sup>, Gillespie, L.<sup>&amp;</sup>, Hately, S.<sup>&amp;</sup>, Kyriazis, C. C.<sup>&amp;</sup>, Lang, P. L. M.<sup>&amp;</sup>, Leventhal, L.<sup>&amp;</sup>, Nogues-Bravo, D.<sup>&amp;</sup>, Pagowski, V.<sup>&amp;</sup>, Ruffley, M.<sup>&amp;</sup>, __Spence, J. P.__<sup>&amp;</sup>, Toro Arana, S. E.<sup>&amp;</sup>, Weiß, C. L.<sup>&amp;</sup>, and Zess, E.<sup>&amp;</sup>  [Genetic diversity loss in the Anthropocene.](https://doi.org/10.1126/science.abn5642) _Science_, Vol. 377, Issue 6613 (2022).
     [\[.pdf\]](/assets/genetic_diversity_loss.pdf)
     [\[supplement\]](/assets/genetic_diversity_loss_supp.pdf)
     [\[.ris\]](/assets/genetic_diversity_loss.ris)
@@ -50,7 +59,6 @@ __2022__
     [\[.pdf\]](/assets/genetic_interactions.pdf)
     [\[supplement\]](/assets/genetic_interactions_supp.pdf)
     [\[.ris\]](/assets/genetic_interactions.ris)
-
 
 
 __2021__
