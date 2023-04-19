@@ -20,8 +20,6 @@ a list of publications is also available through
 __preprints__
 *  Rothschild, D.\*, Susanto, T. T.\*, __Spence, J. P.__, Genuth, N. R., Sinnott-Armstrong, N., Pritchard, J. K., and Barna, M. [A comprehensive rRNA variation atlas in health and disease](https://doi.org/10.1101/2023.01.30.526360) _bioRxiv preprint_.
 
-*  Schreiber, J.\*, Boix, C.\*, _et al._ [The ENCODE Imputation Challenge: A critical assessment of methods for cross-cell type imputation of epigenomic profiles.](https://doi.org/10.1101/2022.07.30.502157) _bioRxiv preprint_.
-
 * Antonio, M. L.\*, Weiß, C. L.\*, Gao, Z.\*, Sawyer, S.\*, Oberreiter, V, Moots, H. M., __Spence, J. P.__, _et al._ [Stable population structure in Europe since the Iron Age, despite high mobility](https://www.biorxiv.org/content/10.1101/2022.05.15.491973v1) _bioRxiv preprint_.
 
 * Mostafavi, H.&#8224;, __Spence, J. P.__, Naqvi, S., and Pritchard, J. K.&#8224;.  [Limited overlap of eQTLs and GWAS hits due to systematic differences in discovery.](https://www.biorxiv.org/content/10.1101/2022.05.07.491045v1) _bioRxiv preprint_.
@@ -38,6 +36,10 @@ Mediterranean.](https://doi.org/10.1101/2022.03.13.483276) _bioRxiv preprint_.
 
 
 __2023__
+*  Schreiber, J.\*, Boix, C.\*, _et al._ [The ENCODE Imputation Challenge: A critical assessment of methods for cross-cell type imputation of epigenomic profiles.](https://doi.org/10.1186/s13059-023-02915-y) _Genome Biology_, Vol. 24 (2023).
+    [\[.pdf\]](/assets/encode_imputation_challenge.pdf)
+    [\[.ris\]](/assets/encode_imputation_challenge.ris)
+
 * Fan, S.\*, __Spence, J. P.__\*, Feng, Y., Hansen, M. E. B., Terhorst, J., Beltrame, M. H., Ranciaro, A., Hirbo, J., Beggs, W., Thomas, N., Nyambo, T., Mpoloka, S. W., Mokone, G. G., Njamnshi, A., Folkunang, C., Meskel, D. W., Belay, G., Song, Y. S., and Tishkoff, S. A. [Whole-genome sequencing reveals a complex African population demographic history and signatures of local adaptation](https://doi.org/10.1016/j.cell.2023.01.042) _Cell_, Vol. 186, Issue 5 (2023).
     [\[.pdf\]](/assets/whole_genome_sequencing.pdf)
     [\[.ris\]](/assets/whole_genome_sequencing.ris)

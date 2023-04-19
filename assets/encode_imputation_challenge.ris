@@ -1,0 +1,57 @@
+TY  - JOUR
+AU  - Schreiber, Jacob
+AU  - Boix, Carles
+AU  - wook Lee, Jin
+AU  - Li, Hongyang
+AU  - Guan, Yuanfang
+AU  - Chang, Chun-Chieh
+AU  - Chang, Jen-Chien
+AU  - Hawkins-Hooker, Alex
+AU  - Schölkopf, Bernhard
+AU  - Schweikert, Gabriele
+AU  - Carulla, Mateo Rojas
+AU  - Canakoglu, Arif
+AU  - Guzzo, Francesco
+AU  - Nanni, Luca
+AU  - Masseroli, Marco
+AU  - Carman, Mark James
+AU  - Pinoli, Pietro
+AU  - Hong, Chenyang
+AU  - Yip, Kevin Y.
+AU  - Spence, Jeffrey P.
+AU  - Batra, Sanjit Singh
+AU  - Song, Yun S.
+AU  - Mahony, Shaun
+AU  - Zhang, Zheng
+AU  - Tan, Wuwei
+AU  - Shen, Yang
+AU  - Sun, Yuanfei
+AU  - Shi, Minyi
+AU  - Adrian, Jessika
+AU  - Sandstrom, Richard
+AU  - Farrell, Nina
+AU  - Halow, Jessica
+AU  - Lee, Kristen
+AU  - Jiang, Lixia
+AU  - Yang, Xinqiong
+AU  - Epstein, Charles
+AU  - Strattan, J. Seth
+AU  - Bernstein, Bradley
+AU  - Snyder, Michael
+AU  - Kellis, Manolis
+AU  - Stafford, William
+AU  - Kundaje, Anshul
+AU  - ENCODE Imputation Challenge Participants
+PY  - 2023
+DA  - 2023/04/18
+TI  - The ENCODE Imputation Challenge: a critical assessment of methods for cross-cell type imputation of epigenomic profiles
+JO  - Genome Biology
+SP  - 79
+VL  - 24
+IS  - 1
+AB  - A promising alternative to comprehensively performing genomics experiments is to, instead, perform a subset of experiments and use computational methods to impute the remainder. However, identifying the best imputation methods and what measures meaningfully evaluate performance are open questions. We address these questions by comprehensively analyzing 23 methods from the ENCODE Imputation Challenge. We find that imputation evaluations are challenging and confounded by distributional shifts from differences in data collection and processing over time, the amount of available data, and redundancy among performance measures. Our analyses suggest simple steps for overcoming these issues and promising directions for more robust research.
+SN  - 1474-760X
+UR  - https://doi.org/10.1186/s13059-023-02915-y
+DO  - 10.1186/s13059-023-02915-y
+ID  - Schreiber2023
+ER  - 
