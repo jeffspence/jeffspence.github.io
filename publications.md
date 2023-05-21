@@ -44,7 +44,7 @@ __2023__
     [\[.pdf\]](/assets/whole_genome_sequencing.pdf)
     [\[.ris\]](/assets/whole_genome_sequencing.ris)
 
-*  Lauterbur, M. E., _et al._ [Expanding the stdpopsim catalog, and lessons learned for realistic genome simulations.](https://doi.org/10.7554/eLife.84874.1) _eLife_ reviewed preprint 2023.
+*  Lauterbur, M. E., _et al._ [Expanding the stdpopsim catalog, and lessons learned for realistic genome simulations.](https://doi.org/10.7554/eLife.84874.1) _eLife_ reviewed preprint (2023).
 
 
 __2022__
