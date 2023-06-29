@@ -16,8 +16,10 @@ where i was advised by
 [yun s. song](https://people.eecs.berkeley.edu/~yss/).
 
 
-i have been working mainly on problems in statistical genetics and population genetics
-but i am broadly interested in problems arising in biology, statistics, and computation.
+i have been working mainly on problems in machine learning with applications to
+statistical genetics and population genetics.
+i am broadly interested in statistical and machine learning approaches to make
+sense of biology.
 
 ![hetch hetchy](/assets/hello.jpg)
 
