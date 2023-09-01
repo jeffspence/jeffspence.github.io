@@ -30,16 +30,15 @@ __preprints__
 
 *  __Spence, J. P.__&#8224;, Sinnott-Armstrong, N., Assimes, T., and Pritchard, J. K.&#8224; [A flexible modeling and inference framework for estimating variant effect sizes from GWAS summary statistics.](https://doi.org/10.1101/2022.04.18.488696) _bioRxiv preprint_.
 
-*  Moots, H. M., Antonio, M. L.\*, Sawyer, S.\*, __Spence, J. P.__\*, Oberreiter, V.\*, Weiß, C. L.\*, Lucci, M.\*, _et al._ [A genetic history of continuity and mobility in the Iron Age central
-Mediterranean.](https://doi.org/10.1101/2022.03.13.483276) _bioRxiv preprint_.
-
 *  Czech, L.\*, Peng, Y.\*, __Spence, J. P.__, _et al._ [Monitoring rapid evolution of plant populations at scale with Pool-sequencing.](https://doi.org/10.1101/2022.02.02.477408) _bioRxiv preprint_.
 
 *   Aw, A. J., __Spence, J. P.__, and Song, Y. S.
-    [A flexible and robust non-parametric test of exchangeability.](https://arxiv.org/abs/2109.15261) _arXiv preprint_.
+    [A simple and flexible test of sample exchangeability with applications to statistical genomics.](https://arxiv.org/abs/2109.15261) _arXiv preprint_.
 
 
 __2023__
+*  Moots, H. M., Antonio, M. L.\*, Sawyer, S.\*, __Spence, J. P.__\*, Oberreiter, V.\*, Weiß, C. L.\*, Lucci, M.\*, Cherifi, Y. M. S.\*, _et al._ [A genetic history of continuity and mobility in the Iron Age central Mediterranean.](https://doi.org/10.1038/s41559-023-02143-4) _Nature Ecology & Evolution_ (2023).
+
 *  Schreiber, J.\*, Boix, C.\*, _et al._ [The ENCODE Imputation Challenge: A critical assessment of methods for cross-cell type imputation of epigenomic profiles.](https://doi.org/10.1186/s13059-023-02915-y) _Genome Biology_, Vol. 24 (2023).
     [\[.pdf\]](/assets/encode_imputation_challenge.pdf)
     [\[.ris\]](/assets/encode_imputation_challenge.ris)
