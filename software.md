@@ -5,6 +5,8 @@ permalink: /software/
 ---
 
 # software:
+[wfmoments](#wfmoments)
+[fastDTWF](#fastdtwf)
 [vilma](#vilma)  
 [pyrho](#pyrho)  
 [defiNETti](#definetti)  
@@ -16,6 +18,26 @@ permalink: /software/
 <br>
 <br>
 <br>
+# [wfmoments](https://github.com/jeffspence/wfmoments)
+__fast calculation of heterozygosity under spatial models__
+[wfmoments](https://github.com/jeffspence/wfmoments) can compute
+the equilibrium and dynamics of expected heterozygosity under arbitrary
+deme models. wfmoments will be described in a forthcoming paper.
+
+<br>
+<br>
+<br>
+# [fastDTWF](https://github.com/jeffspence/fastDTWF)
+__fast calculation of likelihoods under the Discrete-Time Wright-Fisher model__
+[fastDTWF](https://github.com/jeffspence/fastDTWF)
+implements machinery for computing various likelihoods under the
+Discrete-Time Wright-Fisher model. This includes computing frequency spectra and
+transition mass functions. The machiney can handle quite general models incorporating
+mutation and selection.  fastDTWF is described in this [paper](https://doi.org/10.1093/genetics/iyad168).
+
+<br>
+<br>
+<br>
 # [vilma](https://github.com/jeffspence/vilma)
 __polygenic scores using variational inference on gwas summary statistics from multiple cohorts__
 <br>
@@ -24,7 +46,7 @@ __polygenic scores using variational inference on gwas summary statistics from m
 polygenic scores and inferring effect size distributions (genetic archtecture)
 from gwas summary statistics and ld reference panels. vilma can be applied
 to one or two cohorts. vilma is described in this
-[paper](https://www.biorxiv.org/content/10.1101/2022.04.18.488696v1)
+[paper](https://www.biorxiv.org/content/10.1101/2022.04.18.488696v1).
 
 <br>
 <br>

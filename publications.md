@@ -18,26 +18,33 @@ a list of publications is also available through
 <br>
 
 __preprints__
-* __Spence, J. P.__&#8224;, Zeng, T., Mostafavi, H., and Pritchard, J. K. [Scaling the Discrete-time Wright Fisher model to biobank-scale datasets.](https://doi.org/10.1101/2023.05.19.541517) _bioRxiv preprint_.
+*  Czech, L. __Spence, J. P.__, and Expósito-Alonso, M. [grenedalf: population genetic statistics for the next generation of pool sequencing](https://arxiv.org/abs/2306.11622) _arXiv preprint_.
 
 *  Zeng, T.\* <sup>,</sup> &#8224;, __Spence, J. P.__\* <sup>,</sup> &#8224;, Mostafavi, H., and Pritchard, J. K.&#8224; [Bayesian estimation of gene constraint from an evolutionary model with gene features.](https://doi.org/10.1101/2023.05.19.541520) _bioRxiv preprint_.
 
 *  Rothschild, D.\*, Susanto, T. T.\*, __Spence, J. P.__, Genuth, N. R., Sinnott-Armstrong, N., Pritchard, J. K., and Barna, M. [A comprehensive rRNA variation atlas in health and disease.](https://doi.org/10.1101/2023.01.30.526360) _bioRxiv preprint_.
 
-* Antonio, M. L.\*, Weiß, C. L.\*, Gao, Z.\*, Sawyer, S.\*, Oberreiter, V, Moots, H. M., __Spence, J. P.__, _et al._ [Stable population structure in Europe since the Iron Age, despite high mobility.](https://www.biorxiv.org/content/10.1101/2022.05.15.491973v1) _bioRxiv preprint_.
+*  Antonio, M. L.\*, Weiß, C. L.\*, Gao, Z.\*, Sawyer, S.\*, Oberreiter, V, Moots, H. M., __Spence, J. P.__, _et al._ [Stable population structure in Europe since the Iron Age, despite high mobility.](https://www.biorxiv.org/content/10.1101/2022.05.15.491973v1) _bioRxiv preprint_.
 
-* Mostafavi, H.&#8224;, __Spence, J. P.__, Naqvi, S., and Pritchard, J. K.&#8224;.  [Limited overlap of eQTLs and GWAS hits due to systematic differences in discovery.](https://www.biorxiv.org/content/10.1101/2022.05.07.491045v1) _bioRxiv preprint_.
+*  Mostafavi, H.&#8224;, __Spence, J. P.__, Naqvi, S., and Pritchard, J. K.&#8224;.  [Limited overlap of eQTLs and GWAS hits due to systematic differences in discovery.](https://www.biorxiv.org/content/10.1101/2022.05.07.491045v1) _bioRxiv preprint_.
 
 *  __Spence, J. P.__&#8224;, Sinnott-Armstrong, N., Assimes, T., and Pritchard, J. K.&#8224; [A flexible modeling and inference framework for estimating variant effect sizes from GWAS summary statistics.](https://doi.org/10.1101/2022.04.18.488696) _bioRxiv preprint_.
 
 *  Czech, L.\*, Peng, Y.\*, __Spence, J. P.__, _et al._ [Monitoring rapid evolution of plant populations at scale with Pool-sequencing.](https://doi.org/10.1101/2022.02.02.477408) _bioRxiv preprint_.
 
-*   Aw, A. J., __Spence, J. P.__, and Song, Y. S.
-    [A simple and flexible test of sample exchangeability with applications to statistical genomics.](https://arxiv.org/abs/2109.15261) _arXiv preprint_.
+*  Aw, A. J., __Spence, J. P.__, and Song, Y. S.
+   [A simple and flexible test of sample exchangeability with applications to statistical genomics.](https://arxiv.org/abs/2109.15261) _arXiv preprint_.
 
 
 __2023__
-*  Moots, H. M., Antonio, M. L.\*, Sawyer, S.\*, __Spence, J. P.__\*, Oberreiter, V.\*, Weiß, C. L.\*, Lucci, M.\*, Cherifi, Y. M. S.\*, _et al._ [A genetic history of continuity and mobility in the Iron Age central Mediterranean.](https://doi.org/10.1038/s41559-023-02143-4) _Nature Ecology & Evolution_ (2023).
+* __Spence, J. P.__&#8224;, Zeng, T., Mostafavi, H., and Pritchard, J. K. [Scaling the Discrete-time Wright-Fisher model to biobank-scale datasets.]( https://doi.org/10.1093/genetics/iyad168) _Genetics_ (2023).
+    [\[.pdf\]](/assets/dtwf.pdf)
+    [\[.ris\]](/assets/dtwf.ris)
+
+*  Moots, H. M., Antonio, M. L.\*, Sawyer, S.\*, __Spence, J. P.__\*, Oberreiter, V.\*, Weiß, C. L.\*, Lucci, M.\*, Cherifi, Y. M. S.\*, _et al._ [A genetic history of continuity and mobility in the Iron Age central Mediterranean.](https://doi.org/10.1038/s41559-023-02143-4) _Nature Ecology & Evolution_, Vol. 7 (2023) 1515-1524.
+     [\[.pdf\]](/assets/iron_age_med.pdf)
+     [\[.ris\]](/assets/iron_age_med.ris)
+
 
 *  Schreiber, J.\*, Boix, C.\*, _et al._ [The ENCODE Imputation Challenge: A critical assessment of methods for cross-cell type imputation of epigenomic profiles.](https://doi.org/10.1186/s13059-023-02915-y) _Genome Biology_, Vol. 24 (2023).
     [\[.pdf\]](/assets/encode_imputation_challenge.pdf)
@@ -51,7 +58,7 @@ __2023__
 
 
 __2022__
-*   Exposito-Alonso, M., Booker, T. R.<sup>&amp;</sup>, Czech, L.<sup>&amp;</sup>, Gillespie, L.<sup>&amp;</sup>, Hately, S.<sup>&amp;</sup>, Kyriazis, C. C.<sup>&amp;</sup>, Lang, P. L. M.<sup>&amp;</sup>, Leventhal, L.<sup>&amp;</sup>, Nogues-Bravo, D.<sup>&amp;</sup>, Pagowski, V.<sup>&amp;</sup>, Ruffley, M.<sup>&amp;</sup>, __Spence, J. P.__<sup>&amp;</sup>, Toro Arana, S. E.<sup>&amp;</sup>, Weiß, C. L.<sup>&amp;</sup>, and Zess, E.<sup>&amp;</sup>  [Genetic diversity loss in the Anthropocene.](https://doi.org/10.1126/science.abn5642) _Science_, Vol. 377, Issue 6613 (2022).
+*   Expósito-Alonso, M., Booker, T. R.<sup>&amp;</sup>, Czech, L.<sup>&amp;</sup>, Gillespie, L.<sup>&amp;</sup>, Hately, S.<sup>&amp;</sup>, Kyriazis, C. C.<sup>&amp;</sup>, Lang, P. L. M.<sup>&amp;</sup>, Leventhal, L.<sup>&amp;</sup>, Nogues-Bravo, D.<sup>&amp;</sup>, Pagowski, V.<sup>&amp;</sup>, Ruffley, M.<sup>&amp;</sup>, __Spence, J. P.__<sup>&amp;</sup>, Toro Arana, S. E.<sup>&amp;</sup>, Weiß, C. L.<sup>&amp;</sup>, and Zess, E.<sup>&amp;</sup>  [Genetic diversity loss in the Anthropocene.](https://doi.org/10.1126/science.abn5642) _Science_, Vol. 377, Issue 6613 (2022).
     [\[.pdf\]](/assets/genetic_diversity_loss.pdf)
     [\[supplement\]](/assets/genetic_diversity_loss_supp.pdf)
     [\[.ris\]](/assets/genetic_diversity_loss.ris)

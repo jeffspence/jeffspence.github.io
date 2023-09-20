@@ -1,0 +1,24 @@
+Provider: Silverchair
+Database: Oxford University Press
+Content: text/plain; charset="UTF-8"
+
+TY  - JOUR
+AU  - Spence, Jeffrey P
+AU  - Zeng, Tony
+AU  - Mostafavi, Hakhamanesh
+AU  - Pritchard, Jonathan K
+T1  - Scaling the Discrete-time Wright-Fisher Model to Biobank-scale Datasets
+PY  - 2023
+Y1  - 2023/09/19
+DO  - 10.1093/genetics/iyad168
+JO  - Genetics
+JA  - Genetics
+SP  - iyad168
+SN  - 1943-2631
+AB  - The Discrete-Time Wright-Fisher (DTWF) model and its diffusion limit are central to population genetics. These models can describe the forward-in-time evolution of allele frequencies in a population resulting from genetic drift, mutation, and selection. Computing likelihoods under the diffusion process is feasible, but the diffusion approximation breaks down for large samples or in the presence of strong selection. Existing methods for computing likelihoods under the DTWF model do not scale to current exome sequencing sample sizes in the hundreds of thousands. Here we present a scalable algorithm that approximates the DTWF model with provably bounded error. Our approach relies on two key observations about the DTWF model. The first is that transition probabilities under the model are approximately sparse. The second is that transition distributions for similar starting allele frequencies are extremely close as distributions. Together, these observations enable approximate matrix-vector multiplication in linear (as opposed to the usual quadratic) time. We prove similar properties for Hypergeometric distributions, enabling fast computation of likelihoods for subsamples of the population. We show theoretically and in practice that this approximation is highly accurate and can scale to population sizes in the tens of millions, paving the way for rigorous biobank-scale inference. Finally, we use our results to estimate the impact of larger samples on estimating selection coefficients for loss-of-function variants. We find that increasing sample sizes beyond existing large exome sequencing cohorts will provide essentially no additional information except for genes with the most extreme fitness effects.
+Y2  - 9/20/2023
+UR  - https://doi.org/10.1093/genetics/iyad168
+ER  - 
+
+
+
