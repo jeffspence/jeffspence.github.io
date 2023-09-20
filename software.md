@@ -5,8 +5,8 @@ permalink: /software/
 ---
 
 # software:
-[wfmoments](#wfmoments)
-[fastDTWF](#fastdtwf)
+[wfmoments](#wfmoments) 
+[fastDTWF](#fastdtwf) 
 [vilma](#vilma)  
 [pyrho](#pyrho)  
 [defiNETti](#definetti)  
@@ -20,6 +20,8 @@ permalink: /software/
 <br>
 # [wfmoments](https://github.com/jeffspence/wfmoments)
 __fast calculation of heterozygosity under spatial models__
+<br>
+<br>
 [wfmoments](https://github.com/jeffspence/wfmoments) can compute
 the equilibrium and dynamics of expected heterozygosity under arbitrary
 deme models. wfmoments will be described in a forthcoming paper.
@@ -29,6 +31,8 @@ deme models. wfmoments will be described in a forthcoming paper.
 <br>
 # [fastDTWF](https://github.com/jeffspence/fastDTWF)
 __fast calculation of likelihoods under the Discrete-Time Wright-Fisher model__
+<br>
+<br>
 [fastDTWF](https://github.com/jeffspence/fastDTWF)
 implements machinery for computing various likelihoods under the
 Discrete-Time Wright-Fisher model. This includes computing frequency spectra and
