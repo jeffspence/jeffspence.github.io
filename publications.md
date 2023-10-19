@@ -26,8 +26,6 @@ __preprints__
 
 *  Antonio, M. L.\*, Weiß, C. L.\*, Gao, Z.\*, Sawyer, S.\*, Oberreiter, V, Moots, H. M., __Spence, J. P.__, _et al._ [Stable population structure in Europe since the Iron Age, despite high mobility.](https://www.biorxiv.org/content/10.1101/2022.05.15.491973v1) _bioRxiv preprint_.
 
-*  Mostafavi, H.&#8224;, __Spence, J. P.__, Naqvi, S., and Pritchard, J. K.&#8224;.  [Limited overlap of eQTLs and GWAS hits due to systematic differences in discovery.](https://www.biorxiv.org/content/10.1101/2022.05.07.491045v1) _bioRxiv preprint_.
-
 *  __Spence, J. P.__&#8224;, Sinnott-Armstrong, N., Assimes, T., and Pritchard, J. K.&#8224; [A flexible modeling and inference framework for estimating variant effect sizes from GWAS summary statistics.](https://doi.org/10.1101/2022.04.18.488696) _bioRxiv preprint_.
 
 *  Czech, L.\*, Peng, Y.\*, __Spence, J. P.__, _et al._ [Monitoring rapid evolution of plant populations at scale with Pool-sequencing.](https://doi.org/10.1101/2022.02.02.477408) _bioRxiv preprint_.
@@ -37,6 +35,11 @@ __preprints__
 
 
 __2023__
+*  Mostafavi, H.&#8224;, __Spence, J. P.__, Naqvi, S., and Pritchard, J. K.&#8224;.  [Systematic differences in discovery of genetic effects on gene expression and complex traits.](https://doi.org/10.1038/s41588-023-01529-1) _Nature Genetics_ (2023).
+    [\[.pdf\]](/assests/gwas_eqtl.pdf)
+    [\[supplement\]](/assets/gwas_eqtl_supp.pdf)
+    [\[.ris\]](/assests/gwas_eqtl.ris)
+
 * __Spence, J. P.__&#8224;, Zeng, T., Mostafavi, H., and Pritchard, J. K. [Scaling the Discrete-time Wright-Fisher model to biobank-scale datasets.]( https://doi.org/10.1093/genetics/iyad168) _Genetics_ (2023).
     [\[.pdf\]](/assets/dtwf.pdf)
     [\[.ris\]](/assets/dtwf.ris)

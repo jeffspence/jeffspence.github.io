@@ -1,0 +1,15 @@
+TY  - JOUR
+AU  - Mostafavi, Hakhamanesh
+AU  - Spence, Jeffrey P.
+AU  - Naqvi, Sahin
+AU  - Pritchard, Jonathan K.
+PY  - 2023
+DA  - 2023/10/19
+TI  - Systematic differences in discovery of genetic effects on gene expression and complex traits
+JO  - Nature Genetics
+AB  - Most signals in genome-wide association studies (GWAS) of complex traits implicate noncoding genetic variants with putative gene regulatory effects. However, currently identified regulatory variants, notably expression quantitative trait loci (eQTLs), explain only a small fraction of GWAS signals. Here, we show that GWAS and cis-eQTL hits are systematically different: eQTLs cluster strongly near transcription start sites, whereas GWAS hits do not. Genes near GWAS hits are enriched in key functional annotations, are under strong selective constraint and have complex regulatory landscapes across different tissue/cell types, whereas genes near eQTLs are depleted of most functional annotations, show relaxed constraint, and have simpler regulatory landscapes. We describe a model to understand these observations, including how natural selection on complex traits hinders discovery of functionally relevant eQTLs. Our results imply that GWAS and eQTL studies are systematically biased toward different types of variant, and support the use of complementary functional approaches alongside the next generation of eQTL studies.
+SN  - 1546-1718
+UR  - https://doi.org/10.1038/s41588-023-01529-1
+DO  - 10.1038/s41588-023-01529-1
+ID  - Mostafavi2023
+ER  - 
