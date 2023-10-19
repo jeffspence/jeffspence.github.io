@@ -5,8 +5,8 @@ permalink: /software/
 ---
 
 # software:
-[wfmoments](#wfmoments) 
-[fastDTWF](#fastdtwf) 
+[wfmoments](#wfmoments)  
+[fastDTWF](#fastdtwf)  
 [vilma](#vilma)  
 [pyrho](#pyrho)  
 [defiNETti](#definetti)  
