@@ -7,13 +7,13 @@ permalink: /software/
 # software:
 [wfmoments](#wfmoments) <br>
 [fastDTWF](#fastdtwf) <br>
-[vilma](#vilma)
-[pyrho](#pyrho) 
-[defiNETti](#definetti)  
+[vilma](#vilma) <br>
+[pyrho](#pyrho) <br>
+[defiNETti](#definetti)
 
 <br>
 # data:
-[human recombination maps](#fine-scale-human-recombination-maps)  
+[human recombination maps](#fine-scale-human-recombination-maps) <br> 
 [neanderthal introgression calls](#neanderthal-introgression-calls)
 <br>
 <br>
