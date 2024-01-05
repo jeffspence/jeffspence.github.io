@@ -4,10 +4,12 @@ layout: home
 
 hello!
 
-i'm a postdoc at stanford in the
+i'm a staff scientist at stanford in the
 [department of genetics](https://www.med.stanford.edu/genetics.html)
 working with
-[jonathan pritchard](http://web.stanford.edu/group/pritchardlab/home.html).
+[jonathan pritchard](http://web.stanford.edu/group/pritchardlab/home.html)
+with whom i also did my postdoc.
+
 
 i received my ph.d. in
 [computational biology](http://ccb.berkeley.edu)
