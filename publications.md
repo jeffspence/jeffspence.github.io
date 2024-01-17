@@ -25,11 +25,11 @@ __preprints__
 *  Zeng, T.\* <sup>,</sup> &#8224;, __Spence, J. P.__\* <sup>,</sup> &#8224;, Mostafavi, H., and Pritchard, J. K.&#8224; [Bayesian estimation of gene constraint from an evolutionary model with gene features.](https://doi.org/10.1101/2023.05.19.541520) _bioRxiv preprint_.
 
 *  Rothschild, D.\*, Susanto, T. T.\*, __Spence, J. P.__, Genuth, N. R., Sinnott-Armstrong, N., Pritchard, J. K., and Barna, M. [A comprehensive rRNA variation atlas in health and disease.](https://doi.org/10.1101/2023.01.30.526360) _bioRxiv preprint_.
+    [\[.pdf\]](/assets/ribosomes.pdf/)
 
 *  Antonio, M. L.\*, Weiß, C. L.\*, Gao, Z.\*, Sawyer, S.\*, Oberreiter, V, Moots, H. M., __Spence, J. P.__, _et al._ [Stable population structure in Europe since the Iron Age, despite high mobility.](https://www.biorxiv.org/content/10.1101/2022.05.15.491973v1) _bioRxiv preprint_.
 
 *  __Spence, J. P.__&#8224;, Sinnott-Armstrong, N., Assimes, T., and Pritchard, J. K.&#8224; [A flexible modeling and inference framework for estimating variant effect sizes from GWAS summary statistics.](https://doi.org/10.1101/2022.04.18.488696) _bioRxiv preprint_.
-    [\[.pdf\]](/assests/ribosomes.pdf)
 
 *  Czech, L.\*, Peng, Y.\*, __Spence, J. P.__, _et al._ [Monitoring rapid evolution of plant populations at scale with Pool-sequencing.](https://doi.org/10.1101/2022.02.02.477408) _bioRxiv preprint_.
 
