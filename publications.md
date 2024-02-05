@@ -27,21 +27,28 @@ __preprints__
 *  Rothschild, D.\*, Susanto, T. T.\*, __Spence, J. P.__, Genuth, N. R., Sinnott-Armstrong, N., Pritchard, J. K., and Barna, M. [A comprehensive rRNA variation atlas in health and disease.](https://doi.org/10.1101/2023.01.30.526360) _bioRxiv preprint_.
     [\[.pdf\]](/assets/ribosomes.pdf/)
 
-*  Antonio, M. L.\*, Weiß, C. L.\*, Gao, Z.\*, Sawyer, S.\*, Oberreiter, V, Moots, H. M., __Spence, J. P.__, _et al._ [Stable population structure in Europe since the Iron Age, despite high mobility.](https://www.biorxiv.org/content/10.1101/2022.05.15.491973v1) _bioRxiv preprint_.
-
 *  __Spence, J. P.__&#8224;, Sinnott-Armstrong, N., Assimes, T., and Pritchard, J. K.&#8224; [A flexible modeling and inference framework for estimating variant effect sizes from GWAS summary statistics.](https://doi.org/10.1101/2022.04.18.488696) _bioRxiv preprint_.
 
 *  Czech, L.\*, Peng, Y.\*, __Spence, J. P.__, _et al._ [Monitoring rapid evolution of plant populations at scale with Pool-sequencing.](https://doi.org/10.1101/2022.02.02.477408) _bioRxiv preprint_.
 
+
+__2024__
+*  Antonio, M. L.\*, Weiß, C. L.\*, Gao, Z.\*, Sawyer, S.\*, Oberreiter, V, Moots, H. M., __Spence, J. P.__, _et al._ [Stable population structure in Europe since the Iron Age, despite high mobility.](https://doi.org/10.7554/eLife.79714.sa0) _eLife_ (2024).
+
+
 *  Aw, A. J., __Spence, J. P.__, and Song, Y. S.
-   [A simple and flexible test of sample exchangeability with applications to statistical genomics.](https://arxiv.org/abs/2109.15261) _arXiv preprint_.
+[A simple and flexible test of sample exchangeability with applications to statistical genomics.](https://doi.org/10.1214/23-AOAS1817) _Annals of Applied Statistics_ (2024).
+    [\[.pdf\]](/assets/exchangeability.pdf)
+    [\[supplement\]](/assets/exchangeability_supp.pdf)
+    [\[.ris\]](/assets/exhangeability.ris)
+
 
 
 __2023__
 *  Mostafavi, H.&#8224;, __Spence, J. P.__, Naqvi, S., and Pritchard, J. K.&#8224;.  [Systematic differences in discovery of genetic effects on gene expression and complex traits.](https://doi.org/10.1038/s41588-023-01529-1) _Nature Genetics_ (2023).
-    [\[.pdf\]](/assests/gwas_eqtl.pdf)
+    [\[.pdf\]](/assets/gwas_eqtl.pdf)
     [\[supplement\]](/assets/gwas_eqtl_supp.pdf)
-    [\[.ris\]](/assests/gwas_eqtl.ris)
+    [\[.ris\]](/assets/gwas_eqtl.ris)
 
 * __Spence, J. P.__&#8224;, Zeng, T., Mostafavi, H., and Pritchard, J. K. [Scaling the Discrete-time Wright-Fisher model to biobank-scale datasets.]( https://doi.org/10.1093/genetics/iyad168) _Genetics_ (2023).
     [\[.pdf\]](/assets/dtwf.pdf)
