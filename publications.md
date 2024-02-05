@@ -34,6 +34,8 @@ __preprints__
 
 __2024__
 *  Antonio, M. L.\*, Weiß, C. L.\*, Gao, Z.\*, Sawyer, S.\*, Oberreiter, V, Moots, H. M., __Spence, J. P.__, _et al._ [Stable population structure in Europe since the Iron Age, despite high mobility.](https://doi.org/10.7554/eLife.79714.sa0) _eLife_ (2024).
+    [\[.pdf\]](/assets/atqy.pdf)
+    [\[.ris\]](/assets/atqy.ris)
 
 
 *  Aw, A. J., __Spence, J. P.__, and Song, Y. S.
