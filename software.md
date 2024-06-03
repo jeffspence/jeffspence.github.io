@@ -90,7 +90,7 @@ permutation-invariance) and trains them using
 <br>
 <br>
 <br>
-# [fine-scale human recombination maps](https://drive.google.com/drive/folders/1Tgt_7GsDO0-o02vcYSfwqHFd3JNF6R06)
+# [fine-scale human recombination maps](https://zenodo.org/records/11437540)
 __accurate, population-specific fine-scale recombination maps
 for 26 populations__ 
 <br>
