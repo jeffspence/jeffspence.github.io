@@ -18,9 +18,11 @@ a list of publications is also available through
 <br>
 
 __preprints__
-* Batra, S. S.\*, Cabrera, A.\*, __Spence, J. P.__\*, Hilton, I. B., and Song, Y. S. [Predicting the effects of CRISPR-Cas9-based epigenome editing](https://doi.org/10.1101/2023.10.03.560674) _bioRxiv preprint_.
+* Patel, R. A.&#8224;, Weiß, C. L., Zhu, H., Mostafavi, H., Simons, Y. B., __Spence, J. P.__&#8224;, and Pritchard, J. K.&#8224; [Conditional frequency spectra as a tool for studying selection on complex traits in biobanks.](https://www.biorxiv.org/content/10.1101/2024.06.15.599126) _bioRxiv preprint_.
 
-*  Czech, L. __Spence, J. P.__, and Expósito-Alonso, M. [grenedalf: population genetic statistics for the next generation of pool sequencing](https://arxiv.org/abs/2306.11622) _arXiv preprint_.
+* Batra, S. S.\*, Cabrera, A.\*, __Spence, J. P.__\*, Hilton, I. B., and Song, Y. S. [Predicting the effects of CRISPR-Cas9-based epigenome editing.](https://doi.org/10.1101/2023.10.03.560674) _bioRxiv preprint_.
+
+*  Czech, L. __Spence, J. P.__, and Expósito-Alonso, M. [grenedalf: population genetic statistics for the next generation of pool sequencing.](https://arxiv.org/abs/2306.11622) _arXiv preprint_.
 
 *  Zeng, T.\* <sup>,</sup> &#8224;, __Spence, J. P.__\* <sup>,</sup> &#8224;, Mostafavi, H., and Pritchard, J. K.&#8224; [Bayesian estimation of gene constraint from an evolutionary model with gene features.](https://doi.org/10.1101/2023.05.19.541520) _bioRxiv preprint_.
 

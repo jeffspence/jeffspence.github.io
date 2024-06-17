@@ -14,7 +14,8 @@ permalink: /software/
 <br>
 # data:
 [human recombination maps](#fine-scale-human-recombination-maps) <br> 
-[neanderthal introgression calls](#neanderthal-introgression-calls)
+[neanderthal introgression calls](#neanderthal-introgression-calls) <br>
+[gene-level loss-of-function constraint](#gene-level loss-of-function constraint)
 <br>
 <br>
 <br>
@@ -119,3 +120,17 @@ we called tracts of neanderthal introgression in ceu, chb, and chs using our
 method, [dical-admix](http://dical-admix.sourceforge.net).
 the method and an analysis of the tracts are presented in our
 [paper](https://doi.org/10.1111/mec.14565).
+
+
+<br>
+<br>
+<br>
+# [gene-level loss-of-function constraint](https://zenodo.org/records/10403680)
+__estimates of the strength of selection against loss-of-function variants__
+<br>
+<br>
+we developed powerful machinery to combine information across genes,
+[GeneBayes](https://github.com/tkzeng/GeneBayes), to estimate the strength of selection acting against
+loss-of-function variants in almost every gene in the human genome. the method
+and an analysis of the constraint measures are presented in our
+[paper](https://www.biorxiv.org/content/10.1101/2023.05.19.541520).
