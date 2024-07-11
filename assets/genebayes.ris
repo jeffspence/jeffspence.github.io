@@ -1,0 +1,15 @@
+TY  - JOUR
+AU  - Zeng, Tony
+AU  - Spence, Jeffrey P.
+AU  - Mostafavi, Hakhamanesh
+AU  - Pritchard, Jonathan K.
+PY  - 2024
+DA  - 2024/07/08
+TI  - Bayesian estimation of gene constraint from an evolutionary model with gene features
+JO  - Nature Genetics
+AB  - Measures of selective constraint on genes have been used for many applications, including clinical interpretation of rare coding variants, disease gene discovery and studies of genome evolution. However, widely used metrics are severely underpowered at detecting constraints for the shortest ~25% of genes, potentially causing important pathogenic mutations to be overlooked. Here we developed a framework combining a population genetics model with machine learning on gene features to enable accurate inference of an interpretable constraint metric, shet. Our estimates outperform existing metrics for prioritizing genes important for cell essentiality, human disease and other phenotypes, especially for short genes. Our estimates of selective constraint should have wide utility for characterizing genes relevant to human disease. Finally, our inference framework, GeneBayes, provides a flexible platform that can improve the estimation of many gene-level properties, such as rare variant burden or gene expression differences.
+SN  - 1546-1718
+UR  - https://doi.org/10.1038/s41588-024-01820-9
+DO  - 10.1038/s41588-024-01820-9
+ID  - Zeng2024
+ER  - 
