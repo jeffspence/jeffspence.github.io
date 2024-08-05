@@ -18,6 +18,10 @@ a list of publications is also available through
 <br>
 
 __preprints__
+* Judd, J., __Spence, J. P.__, Pritchard, J. K., Kachuri, L., and Witte, J. S. [Investigating the role of neighborhood socioeconomic status and germline genetics on prostate cancer risk.](https://doi.org/10.1101/2024.07.31.24311312) _medRxiv preprint_.
+
+* Smith, C. J.&#8224;, Strausz, S.&#8224;, FinnGenn, __Spence, J. P.__&#8224;, Ollila, H. M.&#8224;, and Pritchard, J. K.&#8224; [Haplotype analysis reveals pleiotropic disease associations in the HLA region.](https://doi.org/10.1101/2024.07.29.24311183) _medRxiv preprint_.
+
 * Aguirre, M.&#8224;, __Spence, J. P.__&#8224;, Sella, G.&#8224;, and Pritchard, J. K.&#8224; [Gene regulatory network structure informs the distribution of perturbation effects.](https://doi.org/10.1101/2024.07.04.602130) _bioRxiv preprint_.
 
 * Patel, R. A.&#8224;, Weiß, C. L., Zhu, H., Mostafavi, H., Simons, Y. B., __Spence, J. P.__&#8224;, and Pritchard, J. K.&#8224; [Conditional frequency spectra as a tool for studying selection on complex traits in biobanks.](https://www.biorxiv.org/content/10.1101/2024.06.15.599126) _bioRxiv preprint_.
