@@ -30,15 +30,18 @@ __preprints__
 
 *  Czech, L. __Spence, J. P.__, and Expósito-Alonso, M. [grenedalf: population genetic statistics for the next generation of pool sequencing.](https://arxiv.org/abs/2306.11622) _arXiv preprint_.
 
-*  Rothschild, D.\*, Susanto, T. T.\*, __Spence, J. P.__, Genuth, N. R., Sinnott-Armstrong, N., Pritchard, J. K., and Barna, M. [A comprehensive rRNA variation atlas in health and disease.](https://doi.org/10.1101/2023.01.30.526360) _bioRxiv preprint_.
-    [\[.pdf\]](/assets/ribosomes.pdf/)
-
 *  __Spence, J. P.__&#8224;, Sinnott-Armstrong, N., Assimes, T., and Pritchard, J. K.&#8224; [A flexible modeling and inference framework for estimating variant effect sizes from GWAS summary statistics.](https://doi.org/10.1101/2022.04.18.488696) _bioRxiv preprint_.
 
 *  Czech, L.\*, Peng, Y.\*, __Spence, J. P.__, _et al._ [Monitoring rapid evolution of plant populations at scale with Pool-sequencing.](https://doi.org/10.1101/2022.02.02.477408) _bioRxiv preprint_.
 
 
 __2024__
+*  Rothschild, D.\*, Susanto, T. T.\*, Sui, X.\*, __Spence, J. P.__, Rangan, R., Genuth, N. R., Sinnott-Armstrong, N., Wang, X., Pritchard, J. K.&#8224;, and Barna, M.&#8224; [Diversity of ribosomes at the level of rRNA variation associated with human health and disease.](https://doi.org/10.1016/j.xgen.2024.100629) _Cell Genomics_ (2024).
+    [\[.pdf\]](/assets/ribosomes.pdf/)
+    [\[supplement\]](/assets/ribosomes_supp.pdf)
+    [\[.ris\]](/assets/ribosomes.ris)
+
+
 *  Zeng, T.\* <sup>,</sup> &#8224;, __Spence, J. P.__\* <sup>,</sup> &#8224;, Mostafavi, H., and Pritchard, J. K.&#8224; [Bayesian estimation of gene constraint from an evolutionary model with gene features.](https://doi.org/10.1038/s41588-024-01820-9) _Nature Genetics_ (2024).
     [\[.pdf\]](/assets/genebayes.pdf)
     [\[supplement\]](/assets/genebayes_supp.pdf)

@@ -1,0 +1,32 @@
+TY  - JOUR
+T1  - Diversity of ribosomes at the level of rRNA variation associated with human health and disease
+AU  - Rothschild, Daphna
+AU  - Susanto, Teodorus Theo
+AU  - Sui, Xin
+AU  - Spence, Jeffrey P.
+AU  - Rangan, Ramya
+AU  - Genuth, Naomi R.
+AU  - Sinnott-Armstrong, Nasa
+AU  - Wang, Xiao
+AU  - Pritchard, Jonathan K.
+AU  - Barna, Maria
+JO  - Cell Genomics
+SP  - 100629
+PY  - 2024
+DA  - 2024/08/06/
+SN  - 2666-979X
+DO  - https://doi.org/10.1016/j.xgen.2024.100629
+UR  - https://www.sciencedirect.com/science/article/pii/S2666979X24002337
+KW  - ribosome
+KW  - repetitive genomic elements
+KW  - ribosome heterogeneity
+KW  - rDNA
+KW  - rRNA
+KW  - rRNA sequence variations
+KW  - rDNA sequence variations
+KW  - rRNA structure
+KW  - rRNA association with development and cancer
+KW  -  sequencing
+AB  - Summary
+With hundreds of copies of rDNA, it is unknown whether they possess sequence variations that form different types of ribosomes. Here, we developed an algorithm for long-read variant calling, termed RGA, which revealed that variations in human rDNA loci are predominantly insertion-deletion (indel) variants. We developed full-length rRNA sequencing (RIBO-RT) and in situ sequencing (SWITCH-seq), which showed that translating ribosomes possess variation in rRNA. Over 1,000 variants are lowly expressed. However, tens of variants are abundant and form distinct rRNA subtypes with different structures near indels as revealed by long-read rRNA structure probing coupled to dimethyl sulfate sequencing. rRNA subtypes show differential expression in endoderm/ectoderm-derived tissues, and in cancer, low-abundance rRNA variants can become highly expressed. Together, this study identifies the diversity of ribosomes at the level of rRNA variants, their chromosomal location, and unique structure as well as the association of ribosome variation with tissue-specific biology and cancer.
+ER  - 
