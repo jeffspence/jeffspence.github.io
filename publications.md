@@ -28,14 +28,14 @@ __preprints__
 
 * Batra, S. S.\*, Cabrera, A.\*, __Spence, J. P.__\*, Hilton, I. B., and Song, Y. S. [Predicting the effects of CRISPR-Cas9-based epigenome editing.](https://doi.org/10.1101/2023.10.03.560674) _bioRxiv preprint_.
 
-*  Czech, L. __Spence, J. P.__, and Expósito-Alonso, M. [grenedalf: population genetic statistics for the next generation of pool sequencing.](https://arxiv.org/abs/2306.11622) _arXiv preprint_.
-
 *  __Spence, J. P.__&#8224;, Sinnott-Armstrong, N., Assimes, T., and Pritchard, J. K.&#8224; [A flexible modeling and inference framework for estimating variant effect sizes from GWAS summary statistics.](https://doi.org/10.1101/2022.04.18.488696) _bioRxiv preprint_.
 
 *  Czech, L.\*, Peng, Y.\*, __Spence, J. P.__, _et al._ [Monitoring rapid evolution of plant populations at scale with Pool-sequencing.](https://doi.org/10.1101/2022.02.02.477408) _bioRxiv preprint_.
 
 
 __2024__
+*  Czech, L. __Spence, J. P.__, and Expósito-Alonso, M. [grenedalf: population genetic statistics for the next generation of pool sequencing.](https://doi.org/10.1093/bioinformatics/btae508) _Bioinformatics_ (2024).
+
 *  Rothschild, D.\*, Susanto, T. T.\*, Sui, X.\*, __Spence, J. P.__, Rangan, R., Genuth, N. R., Sinnott-Armstrong, N., Wang, X., Pritchard, J. K.&#8224;, and Barna, M.&#8224; [Diversity of ribosomes at the level of rRNA variation associated with human health and disease.](https://doi.org/10.1016/j.xgen.2024.100629) _Cell Genomics_ (2024).
     [\[.pdf\]](/assets/ribosomes.pdf/)
     [\[supplement\]](/assets/ribosomes_supp.pdf)
