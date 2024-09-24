@@ -18,6 +18,8 @@ a list of publications is also available through
 <br>
 
 __preprints__
+* Schraiber, J. G., __Spence, J. P.__, and Edge, M. D. [Estimation of demography and mutation rates from one million haploid genomes.](https://doi.org/10.1101/2024.09.18.613708) _bioRxiv preprint_.
+
 * Judd, J., __Spence, J. P.__, Pritchard, J. K., Kachuri, L., and Witte, J. S. [Investigating the role of neighborhood socioeconomic status and germline genetics on prostate cancer risk.](https://doi.org/10.1101/2024.07.31.24311312) _medRxiv preprint_.
 
 * Smith, C. J.&#8224;, Strausz, S.&#8224;, FinnGenn, __Spence, J. P.__&#8224;, Ollila, H. M.&#8224;, and Pritchard, J. K.&#8224; [Haplotype analysis reveals pleiotropic disease associations in the HLA region.](https://doi.org/10.1101/2024.07.29.24311183) _medRxiv preprint_.
