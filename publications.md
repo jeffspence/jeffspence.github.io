@@ -18,6 +18,8 @@ a list of publications is also available through
 <br>
 
 __preprints__
+* Mualim, K. S.\*, __Spence, J. P.__\*, Weiß, C. L.\*, Selmoni, O., Lin, M., and Expósito-Alonso, M. [Genetic diversity loss in the Anthropocene will continue long after habitat destruction ends.](https://doi.org/10.1101/2024.10.21.619096) _bioRxiv preprint_.
+
 * Schraiber, J. G., __Spence, J. P.__, and Edge, M. D. [Estimation of demography and mutation rates from one million haploid genomes.](https://doi.org/10.1101/2024.09.18.613708) _bioRxiv preprint_.
 
 * Judd, J., __Spence, J. P.__, Pritchard, J. K., Kachuri, L., and Witte, J. S. [Investigating the role of neighborhood socioeconomic status and germline genetics on prostate cancer risk.](https://doi.org/10.1101/2024.07.31.24311312) _medRxiv preprint_.
