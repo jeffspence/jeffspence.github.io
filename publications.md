@@ -18,6 +18,8 @@ a list of publications is also available through
 <br>
 
 __preprints__
+* Milind, N.&#8224;, Smith, C. J., Zhu, H., __Spence, J. P.__&#8224;, and Pritchard, J. K.&#8224; [Buffering and non-monotonic behavior of gene dosage response curves for human complex traits.](https://doi.org/10.1101/2024.11.11.24317065) _medRxiv preprint_.
+
 * Mualim, K. S.\*, __Spence, J. P.__\*, Weiß, C. L.\*, Selmoni, O., Lin, M., and Expósito-Alonso, M. [Genetic diversity loss in the Anthropocene will continue long after habitat destruction ends.](https://doi.org/10.1101/2024.10.21.619096) _bioRxiv preprint_.
 
 * Schraiber, J. G., __Spence, J. P.__, and Edge, M. D. [Estimation of demography and mutation rates from one million haploid genomes.](https://doi.org/10.1101/2024.09.18.613708) _bioRxiv preprint_.
