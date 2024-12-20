@@ -33,8 +33,6 @@ __preprints__
 
 * Aguirre, M.&#8224;, __Spence, J. P.__&#8224;, Sella, G.&#8224;, and Pritchard, J. K.&#8224; [Gene regulatory network structure informs the distribution of perturbation effects.](https://doi.org/10.1101/2024.07.04.602130) _bioRxiv preprint_.
 
-* Patel, R. A.&#8224;, Weiß, C. L., Zhu, H., Mostafavi, H., Simons, Y. B., __Spence, J. P.__&#8224;, and Pritchard, J. K.&#8224; [Conditional frequency spectra as a tool for studying selection on complex traits in biobanks.](https://www.biorxiv.org/content/10.1101/2024.06.15.599126) _bioRxiv preprint_.
-
 * Batra, S. S.\*, Cabrera, A.\*, __Spence, J. P.__\*, Hilton, I. B., and Song, Y. S. [Predicting the effects of CRISPR-Cas9-based epigenome editing.](https://doi.org/10.1101/2023.10.03.560674) _bioRxiv preprint_.
 
 *  __Spence, J. P.__&#8224;, Sinnott-Armstrong, N., Assimes, T., and Pritchard, J. K.&#8224; [A flexible modeling and inference framework for estimating variant effect sizes from GWAS summary statistics.](https://doi.org/10.1101/2022.04.18.488696) _bioRxiv preprint_.
@@ -43,6 +41,9 @@ __preprints__
 
 
 __2024__
+* Patel, R. A.&#8224;, Weiß, C. L., Zhu, H., Mostafavi, H., Simons, Y. B., __Spence, J. P.__&#8224;, and Pritchard, J. K.&#8224; [Characterizing selection on complex traits through conditional frequency spectra.](https://doi.org/10.1093/genetics/iyae210) _Genetics_ (2024).
+
+
 *  Czech, L. __Spence, J. P.__, and Expósito-Alonso, M. [grenedalf: population genetic statistics for the next generation of pool sequencing.](https://doi.org/10.1093/bioinformatics/btae508) _Bioinformatics_ (2024).
 
 *  Rothschild, D.\*, Susanto, T. T.\*, Sui, X.\*, __Spence, J. P.__, Rangan, R., Genuth, N. R., Sinnott-Armstrong, N., Wang, X., Pritchard, J. K.&#8224;, and Barna, M.&#8224; [Diversity of ribosomes at the level of rRNA variation associated with human health and disease.](https://doi.org/10.1016/j.xgen.2024.100629) _Cell Genomics_ (2024).
