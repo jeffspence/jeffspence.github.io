@@ -18,6 +18,8 @@ a list of publications is also available through
 <br>
 
 __preprints__
+* Ota, M.&#8224;, __Spence, J. P.__, Zeng, T., Dann, E., Marson, A.&#8224;, and Pritchard, J. K.&#8224; [Causal modeling of gene effects from regulators to programs to traits: integration of genetic associations and Perturb-seq](https://doi.org/10.1101/2025.01.22.634424) _bioRxiv preprint_.
+
 * __Spence, J. P.__\*&#8224;, Mostafavi, H.\*&#8224;, Ota, M.&#8224;, Milind, N., Gjorgjieva, T., Smith, C. J., Simons, Y. B., Sella, G., and Pritchard, J. K.&#8224; [Specificity, length, and luck: How genes are prioritized by rare and common variant association studies](https://www.biorxiv.org/content/10.1101/2024.12.12.628073v1) _bioRxiv preprint_.
     [\[.pdf\]](/assets/specificity.pdf/)
 
