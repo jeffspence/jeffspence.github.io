@@ -1,32 +1,26 @@
+
 TY  - JOUR
-T1  - Model-based detection and analysis of introgressed Neanderthal ancestry in modern humans
+T1  - Inference of complex population histories using whole-genome sequences from multiple populations
 AU  - Steinrücken, Matthias
+AU  - Kamm, Jack
 AU  - Spence, Jeffrey P.
-AU  - Kamm, John A.
-AU  - Wieczorek, Emilia
 AU  - Song, Yun S.
-Y1  - 2018/10/01
-PY  - 2018
-DA  - 2018/10/01
-N1  - https://doi.org/10.1111/mec.14565
-DO  - https://doi.org/10.1111/mec.14565
-T2  - Molecular Ecology
-JF  - Molecular Ecology
-JO  - Molecular Ecology
-JA  - Mol Ecol
-SP  - 3873
-EP  - 3888
-VL  - 27
-IS  - 19
-KW  - archaic hominin introgression
-KW  - molecular evolution
-KW  - population genetics
-KW  - speciation
-PB  - John Wiley & Sons, Ltd
-SN  - 0962-1083
-M3  - https://doi.org/10.1111/mec.14565
-UR  - https://doi.org/10.1111/mec.14565
-Y2  - 2021/04/08
-N2  - Abstract Genetic evidence has revealed that the ancestors of modern human populations outside Africa and their hominin sister groups, notably Neanderthals, exchanged genetic material in the past. The distribution of these introgressed sequence tracts along modern-day human genomes provides insight into the selective forces acting on them and the role of introgression in the evolutionary history of hominins. Studying introgression patterns on the X-chromosome is of particular interest, as sex chromosomes are thought to play a special role in speciation. Recent studies have developed methods to localize introgressed ancestries, reporting long regions that are depleted of Neanderthal introgression and enriched in genes, suggesting negative selection against the Neanderthal variants. On the other hand, enriched Neanderthal ancestry in hair- and skin-related genes suggests that some introgressed variants facilitated adaptation to new environments. Here, we present a model-based introgression detection method called dical-admix. We demonstrate its efficiency and accuracy through extensive simulations and apply it to detect tracts of Neanderthal introgression in modern human individuals from the 1000 Genomes Project. Our findings are largely concordant with previous studies, consistent with weak selection against Neanderthal ancestry. We find evidence that selection against Neanderthal ancestry was due to higher genetic load in Neanderthals resulting from small effective population size, rather than widespread Dobzhansky?Müller incompatibilities (DMIs) that could contribute to reproductive isolation. Moreover, we confirm the previously reported low level of introgression on the X-chromosome, but find little evidence that DMIs contributed to this pattern.
-ID  - steinruecken2018model
+Y1  - 2019/08/20
+PY  - 2019
+DA  - 2019/08/20
+N1  - doi: 10.1073/pnas.1905060116
+DO  - 10.1073/pnas.1905060116
+T2  - Proceedings of the National Academy of Sciences
+JF  - Proceedings of the National Academy of Sciences
+JO  - Proceedings of the National Academy of Sciences
+SP  - 17115
+EP  - 17120
+VL  - 116
+IS  - 34
+PB  - Proceedings of the National Academy of Sciences
+M3  - doi: 10.1073/pnas.1905060116
+UR  - https://doi.org/10.1073/pnas.1905060116
+Y2  - 2025/05/27
+N2  - An increasing number of population genomic studies now try to infer complex models of population history using a number of whole-genome sequences sampled from multiple populations. A key technical challenge to this effort is to compute model likelihoods, which involves integrating out latent variables (genealogical histories) that live in extremely high dimensions. This is a notoriously difficult computational problem, especially when the sample size is greater than a handful and the underlying population genetic model is complex. Here, we present an efficient, flexible statistical method that can scale to larger sample sizes and more populations than previously possible. Aside from demographic inference, our method can be used in other statistical inference problems in evolutionary biology and human genetics. There has been much interest in analyzing genome-scale DNA sequence data to infer population histories, but inference methods developed hitherto are limited in model complexity and computational scalability. Here we present an efficient, flexible statistical method, diCal2, that can use whole-genome sequence data from multiple populations to infer complex demographic models involving population size changes, population splits, admixture, and migration. Applying our method to data from Australian, East Asian, European, and Papuan populations, we find that the population ancestral to Australians and Papuans started separating from East Asians and Europeans about 100,000 y ago, and that the separation of East Asians and Europeans started about 50,000 y ago, with pervasive gene flow between all pairs of populations.
+AB  - An increasing number of population genomic studies now try to infer complex models of population history using a number of whole-genome sequences sampled from multiple populations. A key technical challenge to this effort is to compute model likelihoods, which involves integrating out latent variables (genealogical histories) that live in extremely high dimensions. This is a notoriously difficult computational problem, especially when the sample size is greater than a handful and the underlying population genetic model is complex. Here, we present an efficient, flexible statistical method that can scale to larger sample sizes and more populations than previously possible. Aside from demographic inference, our method can be used in other statistical inference problems in evolutionary biology and human genetics. There has been much interest in analyzing genome-scale DNA sequence data to infer population histories, but inference methods developed hitherto are limited in model complexity and computational scalability. Here we present an efficient, flexible statistical method, diCal2, that can use whole-genome sequence data from multiple populations to infer complex demographic models involving population size changes, population splits, admixture, and migration. Applying our method to data from Australian, East Asian, European, and Papuan populations, we find that the population ancestral to Australians and Papuans started separating from East Asians and Europeans about 100,000 y ago, and that the separation of East Asians and Europeans started about 50,000 y ago, with pervasive gene flow between all pairs of populations.
 ER  - 

@@ -173,9 +173,9 @@ __2018__
     [Model-based detection and analysis of introgressed Neanderthal
     ancestry in modern humans.](https://doi.org/10.1111/mec.14565)
     _Molecular Ecology_, Vol. 27, No. 19 (2018) 3873-3888.
-    [\[.pdf\]](/assets/dical2.pdf)
-    [\[supplement\]](/assets/dical2_supp.pdf)
-    [\[.ris\]](/assets/dical2.ris)
+    [\[.pdf\]](/assets/dical_admix.pdf)
+    [\[supplement\]](/assets/dical_admix_supp.pdf)
+    [\[.ris\]](/assets/dical_admix.ris)
 
 *   __Spence, J. P.__, Steinr&uuml;cken, M., Terhorst, J., and Song, Y. S.
     [Inference of population history using coalescent HMMs:
