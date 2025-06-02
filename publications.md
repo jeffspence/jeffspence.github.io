@@ -37,7 +37,7 @@ __preprints__
 
 
 __2025__
-* Batra, S. S.\*, Cabrera, A.\*, __Spence, J. P.__\*, Goell, H., Anand, S. S., Hilton, I. B., and Song, Y. S. [Predicting the effects of CRISPR-Cas9-based epigenome editing.](https://doi.org/10.7554/eLife.92991) _eLife_.
+* Batra, S. S.\*, Cabrera, A.\*, __Spence, J. P.__\*, Goell, H., Anand, S. S., Hilton, I. B., and Song, Y. S. [Predicting the effects of CRISPR-Cas9-based epigenome editing.](https://doi.org/10.7554/eLife.92991) _eLife_ (2025).
 
 
 __2024__
