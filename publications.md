@@ -35,11 +35,9 @@ __preprints__
 
 * Aguirre, M.&#8224;, __Spence, J. P.__&#8224;, Sella, G.&#8224;, and Pritchard, J. K.&#8224; [Gene regulatory network structure informs the distribution of perturbation effects.](https://doi.org/10.1101/2024.07.04.602130) _bioRxiv preprint_.
 
-* Batra, S. S.\*, Cabrera, A.\*, __Spence, J. P.__\*, Hilton, I. B., and Song, Y. S. [Predicting the effects of CRISPR-Cas9-based epigenome editing.](https://doi.org/10.1101/2023.10.03.560674) _bioRxiv preprint_.
 
-*  __Spence, J. P.__&#8224;, Sinnott-Armstrong, N., Assimes, T., and Pritchard, J. K.&#8224; [A flexible modeling and inference framework for estimating variant effect sizes from GWAS summary statistics.](https://doi.org/10.1101/2022.04.18.488696) _bioRxiv preprint_.
-
-*  Czech, L.\*, Peng, Y.\*, __Spence, J. P.__, _et al._ [Monitoring rapid evolution of plant populations at scale with Pool-sequencing.](https://doi.org/10.1101/2022.02.02.477408) _bioRxiv preprint_.
+__2025__
+* Batra, S. S.\*, Cabrera, A.\*, __Spence, J. P.__\*, Goell, H., Anand, S. S., Hilton, I. B., and Song, Y. S. [Predicting the effects of CRISPR-Cas9-based epigenome editing.](https://doi.org/10.7554/eLife.92991) _eLife_.
 
 
 __2024__
@@ -100,6 +98,10 @@ __2023__
 
 
 __2022__
+*  __Spence, J. P.__&#8224;, Sinnott-Armstrong, N., Assimes, T., and Pritchard, J. K.&#8224; [A flexible modeling and inference framework for estimating variant effect sizes from GWAS summary statistics.](https://doi.org/10.1101/2022.04.18.488696) _bioRxiv_.
+
+*  Czech, L.\*, Peng, Y.\*, __Spence, J. P.__, _et al._ [Monitoring rapid evolution of plant populations at scale with Pool-sequencing.](https://doi.org/10.1101/2022.02.02.477408) _bioRxiv_.
+
 *   Expósito-Alonso, M., Booker, T. R.<sup>&amp;</sup>, Czech, L.<sup>&amp;</sup>, Gillespie, L.<sup>&amp;</sup>, Hately, S.<sup>&amp;</sup>, Kyriazis, C. C.<sup>&amp;</sup>, Lang, P. L. M.<sup>&amp;</sup>, Leventhal, L.<sup>&amp;</sup>, Nogues-Bravo, D.<sup>&amp;</sup>, Pagowski, V.<sup>&amp;</sup>, Ruffley, M.<sup>&amp;</sup>, __Spence, J. P.__<sup>&amp;</sup>, Toro Arana, S. E.<sup>&amp;</sup>, Weiß, C. L.<sup>&amp;</sup>, and Zess, E.<sup>&amp;</sup>  [Genetic diversity loss in the Anthropocene.](https://doi.org/10.1126/science.abn5642) _Science_, Vol. 377, Issue 6613 (2022).
     [\[.pdf\]](/assets/genetic_diversity_loss.pdf)
     [\[supplement\]](/assets/genetic_diversity_loss_supp.pdf)
