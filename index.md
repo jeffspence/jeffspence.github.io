@@ -39,4 +39,4 @@ where i was advised by
 ![hetch hetchy](/assets/hello.jpg)
 
 feel free to contact me:  
-my email address is jspence@stanford.edu
+my email address is Jeff.Spence@ucsf.edu
