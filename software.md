@@ -15,7 +15,7 @@ permalink: /software/
 # data:
 [human recombination maps](#fine-scale-human-recombination-maps) <br> 
 [neanderthal introgression calls](#neanderthal-introgression-calls) <br>
-[gene-level loss-of-function constraint](#gene-level loss-of-function constraint)
+[gene-level loss-of-function constraint](#gene-level-loss-of-function-constraint)
 <br>
 <br>
 <br>
@@ -25,7 +25,7 @@ __fast calculation of heterozygosity under spatial models__
 <br>
 [wfmoments](https://github.com/jeffspence/wfmoments) can compute
 the equilibrium and dynamics of expected heterozygosity under arbitrary
-deme models. wfmoments will be described in a forthcoming paper.
+deme models. wfmoments is described in the supplement of this [paper](https://www.biorxiv.org/content/10.1101/2024.10.21.619096v1).
 
 <br>
 <br>
@@ -133,4 +133,4 @@ we developed powerful machinery to combine information across genes,
 [GeneBayes](https://github.com/tkzeng/GeneBayes), to estimate the strength of selection acting against
 loss-of-function variants in almost every gene in the human genome. the method
 and an analysis of the constraint measures are presented in our
-[paper](https://www.biorxiv.org/content/10.1101/2023.05.19.541520).
+[paper](https://www.nature.com/articles/s41588-024-01820-9).
