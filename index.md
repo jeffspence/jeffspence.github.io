@@ -1,7 +1,11 @@
 ---
 layout: home
 ---
-# hello and welcome to the spence group @ ucsf
+
+<center>
+<p style="font-size:40px">hello and welcome to the spence group @ ucsf</p>
+</center>
+<br>
 
 we work at the intersection of statistical genetics, population genetics,
 and machine learning.
