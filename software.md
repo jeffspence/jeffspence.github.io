@@ -116,9 +116,12 @@ via the wonderful [stdpopsim](https://stdpopsim.readthedocs.io/en/latest/) proje
 __posterior probabilities of introgression in modern humans__ 
 <br>
 <br>
-we called tracts of neanderthal introgression in ceu, chb, and chs using our
+We called tracts of Neanderthal introgression in the CEU, CHB,
+and CHS samples from the
+[Thousand Genomes Project](http://www.internationalgenome.org/faq/which-populations-are-part-your-study/)
+using our
 method, [dical-admix](http://dical-admix.sourceforge.net).
-the method and an analysis of the tracts are presented in our
+The method and an analysis of the tracts are presented in our
 [paper](https://doi.org/10.1111/mec.14565).
 
 
@@ -131,6 +134,6 @@ __estimates of the strength of selection against loss-of-function variants__
 <br>
 We developed powerful machinery to combine information across genes,
 [GeneBayes](https://github.com/tkzeng/GeneBayes), to estimate the strength of selection acting against
-loss-of-function variants in almost every gene in the human genome. The method
+loss-of-function variants in almost every proteint-coding gene in the human genome. The method
 and an analysis of the constraint measures are presented in our
 [paper](https://www.nature.com/articles/s41588-024-01820-9).
