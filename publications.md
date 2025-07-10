@@ -31,12 +31,12 @@ __preprints__
 
 * Judd, J., __Spence, J. P.__, Pritchard, J. K., Kachuri, L., and Witte, J. S. [Investigating the role of neighborhood socioeconomic status and germline genetics on prostate cancer risk.](https://doi.org/10.1101/2024.07.31.24311312) _medRxiv preprint_.
 
-* Smith, C. J.&#8224;, Strausz, S.&#8224;, FinnGenn, __Spence, J. P.__&#8224;, Ollila, H. M.&#8224;, and Pritchard, J. K.&#8224; [Haplotype analysis reveals pleiotropic disease associations in the HLA region.](https://doi.org/10.1101/2024.07.29.24311183) _medRxiv preprint_.
-
 * Aguirre, M.&#8224;, __Spence, J. P.__&#8224;, Sella, G.&#8224;, and Pritchard, J. K.&#8224; [Gene regulatory network structure informs the distribution of perturbation effects.](https://doi.org/10.1101/2024.07.04.602130) _bioRxiv preprint_.
 
 
 __2025__
+* Smith, C. J.&#8224;, Strausz, S.&#8224;, FinnGenn, __Spence, J. P.__&#8224;, Ollila, H. M.&#8224;, and Pritchard, J. K.&#8224; [Haplotype analysis reveals pleiotropic disease associations in the HLA region.](https://doi.org/10.1016/j.ajhg.2025.06.011) _American Journal of Human Genetics_.
+
 * Batra, S. S.\*, Cabrera, A.\*, __Spence, J. P.__\*, Goell, H., Anand, S. S., Hilton, I. B., and Song, Y. S. [Predicting the effects of CRISPR-Cas9-based epigenome editing.](https://doi.org/10.7554/eLife.92991) _eLife_ (2025).
 
 
