@@ -1,10 +1,10 @@
 ---
 layout: page
-title: software and data
+title: Software and Data
 permalink: /software/
 ---
 
-# software:
+# Software:
 [wfmoments](#wfmoments) <br>
 [fastDTWF](#fastdtwf) <br>
 [vilma](#vilma) <br>
@@ -12,10 +12,10 @@ permalink: /software/
 [defiNETti](#definetti)
 
 <br>
-# data:
-[human recombination maps](#fine-scale-human-recombination-maps) <br> 
-[neanderthal introgression calls](#neanderthal-introgression-calls) <br>
-[gene-level loss-of-function constraint](#gene-level-loss-of-function-constraint)
+# Data:
+[Human recombination maps](#fine-scale-human-recombination-maps) <br> 
+[Neanderthal introgression calls](#neanderthal-introgression-calls) <br>
+[Gene-level loss-of-function constraint](#gene-level-loss-of-function-constraint)
 <br>
 <br>
 <br>
@@ -63,14 +63,14 @@ __fast inference of fine-scale recombination rates__
 [pyrho](https://github.com/popgenmethods/pyrho) is a method for inferring
 fine-scale recombination maps from sequencing data from unrelated individuals
 while taking demographic history into account.
-it is substantially faster than [LDhat](http://ldhat.sourceforge.net) while 
-attaining comparable or better accuracy. in our
+It is substantially faster than [LDhat](http://ldhat.sourceforge.net) while 
+attaining comparable or better accuracy. In our
 [paper](http://dx.doi.org/10.1126/sciadv.aaw9206)
 we use pyrho to infer fine-scale recombination maps for the 26 populations in phase 3
 of the
-[thousand genomes project](http://www.internationalgenome.org/faq/which-populations-are-part-your-study/)
+[Thousand Genomes Project](http://www.internationalgenome.org/faq/which-populations-are-part-your-study/)
 for the two most recent builds of the human genome (hg19 and hg38).
-those maps are available
+Those maps are available
 [here](https://drive.google.com/drive/folders/1Tgt_7GsDO0-o02vcYSfwqHFd3JNF6R06).
 
 <br>
@@ -85,34 +85,34 @@ __exchangeable neural networks__
 exchangeable neural networks (i.e., networks that enforce
 permutation-invariance) and trains them using
 'simulation-on-the-fly' as described in our
-[paper](http://papers.nips.cc/paper/8078-a-likelihood-free-inference-framework-for-population-genetic-data-using-exchangeable-neural-networks).  named after
-[bruno](https://en.wikipedia.org/wiki/Bruno_de_Finetti).
+[paper](http://papers.nips.cc/paper/8078-a-likelihood-free-inference-framework-for-population-genetic-data-using-exchangeable-neural-networks).  Named after
+[Bruno](https://en.wikipedia.org/wiki/Bruno_de_Finetti).
 
 <br>
 <br>
 <br>
-# [fine-scale human recombination maps](https://zenodo.org/records/11437540)
+# [Fine-scale human recombination maps](https://zenodo.org/records/11437540)
 __accurate, population-specific fine-scale recombination maps
 for 26 populations__ 
 <br>
 <br>
-we inferred fine-scale recombination maps for each of the 26 populations
+We inferred fine-scale recombination maps for each of the 26 populations
 in phase 3 of the
-[thousand genomes project](http://www.internationalgenome.org/faq/which-populations-are-part-your-study/)
+[Thousand Genomes Project](http://www.internationalgenome.org/faq/which-populations-are-part-your-study/)
 using our method
-[pyrho](https://github.com/popgenmethods/pyrho).  the maps were
+[pyrho](https://github.com/popgenmethods/pyrho).  The maps were
 inferred while taking demography into account and explain patterns of
-ld better than previous recombination maps.  the method and recombination
+ld better than previous recombination maps.  The method and recombination
 maps are described in our
 [paper](http://dx.doi.org/10.1126/sciadv.aaw9206).
-these recombination maps are also available for use in simulations
+These recombination maps are also available for use in simulations
 via the wonderful [stdpopsim](https://stdpopsim.readthedocs.io/en/latest/) project.
 
 
 <br>
 <br>
 <br>
-# [neanderthal introgression calls](https://drive.google.com/drive/folders/0B_RxlKHkUXRDflZDd0xWTEVNWVF2OFppUmNka3ZWN19pbU5qVjBVV2lGVVBuQTJkWE5KTDg)
+# [Neanderthal introgression calls](https://drive.google.com/drive/folders/0B_RxlKHkUXRDflZDd0xWTEVNWVF2OFppUmNka3ZWN19pbU5qVjBVV2lGVVBuQTJkWE5KTDg)
 __posterior probabilities of introgression in modern humans__ 
 <br>
 <br>
@@ -125,12 +125,12 @@ the method and an analysis of the tracts are presented in our
 <br>
 <br>
 <br>
-# [gene-level loss-of-function constraint](https://zenodo.org/records/10403680)
+# [Gene-level loss-of-function constraint](https://zenodo.org/records/10403680)
 __estimates of the strength of selection against loss-of-function variants__
 <br>
 <br>
-we developed powerful machinery to combine information across genes,
+We developed powerful machinery to combine information across genes,
 [GeneBayes](https://github.com/tkzeng/GeneBayes), to estimate the strength of selection acting against
-loss-of-function variants in almost every gene in the human genome. the method
+loss-of-function variants in almost every gene in the human genome. The method
 and an analysis of the constraint measures are presented in our
 [paper](https://www.nature.com/articles/s41588-024-01820-9).
