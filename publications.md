@@ -18,16 +18,16 @@ A list of publications is also available through
 <br>
 
 __preprints__
-* Ota, M.&#8224;, __Spence, J. P.__, Zeng, T., Dann, E., Marson, A.&#8224;, and Pritchard, J. K.&#8224; [Causal modeling of gene effects from regulators to programs to traits: integration of genetic associations and Perturb-seq](https://doi.org/10.1101/2025.01.22.634424) _bioRxiv preprint_.
+* Aguirre, M.&#8224;, __Spence, J. P.__&#8224;, Sella, G.&#8224;, and Pritchard, J. K.&#8224; [Regulatory network topology and the genetic architecture of gene expression.](https://doi.org/10.1101/2025.08.12.669924) _bioRxiv preprint_.
 
-* __Spence, J. P.__\*&#8224;, Mostafavi, H.\*&#8224;, Ota, M.&#8224;, Milind, N., Gjorgjieva, T., Smith, C. J., Simons, Y. B., Sella, G., and Pritchard, J. K.&#8224; [Specificity, length, and luck: How genes are prioritized by rare and common variant association studies](https://www.biorxiv.org/content/10.1101/2024.12.12.628073v1) _bioRxiv preprint_.
+* Ota, M.&#8224;, __Spence, J. P.__, Zeng, T., Dann, E., Marson, A.&#8224;, and Pritchard, J. K.&#8224; [Causal modeling of gene effects from regulators to programs to traits: integration of genetic associations and Perturb-seq.](https://doi.org/10.1101/2025.01.22.634424) _bioRxiv preprint_.
+
+* __Spence, J. P.__\*&#8224;, Mostafavi, H.\*&#8224;, Ota, M.&#8224;, Milind, N., Gjorgjieva, T., Smith, C. J., Simons, Y. B., Sella, G., and Pritchard, J. K.&#8224; [Specificity, length, and luck: How genes are prioritized by rare and common variant association studies.](https://www.biorxiv.org/content/10.1101/2024.12.12.628073v1) _bioRxiv preprint_.
     [\[.pdf\]](/assets/specificity.pdf/)
 
 * Milind, N.&#8224;, Smith, C. J., Zhu, H., __Spence, J. P.__&#8224;, and Pritchard, J. K.&#8224; [Buffering and non-monotonic behavior of gene dosage response curves for human complex traits.](https://doi.org/10.1101/2024.11.11.24317065) _medRxiv preprint_.
 
 * Mualim, K. S.\*, __Spence, J. P.__\*, Weiß, C. L.\*, Selmoni, O., Lin, M., and Expósito-Alonso, M. [Genetic diversity loss in the Anthropocene will continue long after habitat destruction ends.](https://doi.org/10.1101/2024.10.21.619096) _bioRxiv preprint_.
-
-* Schraiber, J. G., __Spence, J. P.__, and Edge, M. D. [Estimation of demography and mutation rates from one million haploid genomes.](https://doi.org/10.1101/2024.09.18.613708) _bioRxiv preprint_.
 
 * Judd, J., __Spence, J. P.__, Pritchard, J. K., Kachuri, L., and Witte, J. S. [Investigating the role of neighborhood socioeconomic status and germline genetics on prostate cancer risk.](https://doi.org/10.1101/2024.07.31.24311312) _medRxiv preprint_.
 
@@ -35,6 +35,9 @@ __preprints__
 
 
 __2025__
+* Schraiber, J. G., __Spence, J. P.__, and Edge, M. D. [Estimation of demography and mutation rates from one million haploid genomes.](https://doi.org/10.1016/j.ajhg.2025.07.008) _American Journal of Human Genetics_ (2025).
+
+
 * Smith, C. J.&#8224;, Strausz, S.&#8224;, FinnGenn, __Spence, J. P.__&#8224;, Ollila, H. M.&#8224;, and Pritchard, J. K.&#8224; [Haplotype analysis reveals pleiotropic disease associations in the HLA region.](https://doi.org/10.1016/j.ajhg.2025.06.011) _American Journal of Human Genetics_ (2025).
 
 * Batra, S. S.\*, Cabrera, A.\*, __Spence, J. P.__\*, Goell, H., Anand, S. S., Hilton, I. B., and Song, Y. S. [Predicting the effects of CRISPR-Cas9-based epigenome editing.](https://doi.org/10.7554/eLife.92991) _eLife_ (2025).
