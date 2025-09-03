@@ -31,10 +31,10 @@ __preprints__
 
 * Judd, J., __Spence, J. P.__, Pritchard, J. K., Kachuri, L., and Witte, J. S. [Investigating the role of neighborhood socioeconomic status and germline genetics on prostate cancer risk.](https://doi.org/10.1101/2024.07.31.24311312) _medRxiv preprint_.
 
-* Aguirre, M.&#8224;, __Spence, J. P.__&#8224;, Sella, G.&#8224;, and Pritchard, J. K.&#8224; [Gene regulatory network structure informs the distribution of perturbation effects.](https://doi.org/10.1101/2024.07.04.602130) _bioRxiv preprint_.
-
 
 __2025__
+* Aguirre, M.&#8224;, __Spence, J. P.__&#8224;, Sella, G.&#8224;, and Pritchard, J. K.&#8224; [Gene regulatory network structure informs the distribution of perturbation effects.](https://doi.org/10.1371/journal.pcbi.1013387) _PLoS Computational Biology_ (2025).
+
 * Schraiber, J. G., __Spence, J. P.__, and Edge, M. D. [Estimation of demography and mutation rates from one million haploid genomes.](https://doi.org/10.1016/j.ajhg.2025.07.008) _American Journal of Human Genetics_ (2025).
 
 
