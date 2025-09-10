@@ -21,7 +21,7 @@ If you
 are interested in joining us, we are always looking for enthusiastic
 folks interested in quantitative work with any level of experience.
 
-We are located on the beautiful parnassus campus, minutes from
+We are located on the beautiful Parnassus campus, minutes from
 Mt. Sutro and Golden Gate Park, and situated between the vibrant
 Inner Sunset and Cole Valley neighborhoods.
 
