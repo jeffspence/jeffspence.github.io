@@ -38,7 +38,7 @@ __2025__
 * Schraiber, J. G., __Spence, J. P.__, and Edge, M. D. [Estimation of demography and mutation rates from one million haploid genomes.](https://doi.org/10.1016/j.ajhg.2025.07.008) _American Journal of Human Genetics_ (2025).
 
 
-* Smith, C. J.&#8224;, Strausz, S.&#8224;, FinnGenn, __Spence, J. P.__&#8224;, Ollila, H. M.&#8224;, and Pritchard, J. K.&#8224; [Haplotype analysis reveals pleiotropic disease associations in the HLA region.](https://doi.org/10.1016/j.ajhg.2025.06.011) _American Journal of Human Genetics_ (2025).
+* Smith, C. J.&#8224;, Strausz, S.&#8224;, FinnGen, __Spence, J. P.__&#8224;, Ollila, H. M.&#8224;, and Pritchard, J. K.&#8224; [Haplotype analysis reveals pleiotropic disease associations in the HLA region.](https://doi.org/10.1016/j.ajhg.2025.06.011) _American Journal of Human Genetics_ (2025).
 
 * Batra, S. S.\*, Cabrera, A.\*, __Spence, J. P.__\*, Goell, H., Anand, S. S., Hilton, I. B., and Song, Y. S. [Predicting the effects of CRISPR-Cas9-based epigenome editing.](https://doi.org/10.7554/eLife.92991) _eLife_ (2025).
 
