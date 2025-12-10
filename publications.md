@@ -22,14 +22,15 @@ __preprints__
 
 * Aguirre, M.<sup>&#8224;</sup>, __Spence, J. P.__<sup>&#8224;</sup>, Sella, G.<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [Regulatory network topology and the genetic architecture of gene expression.](https://doi.org/10.1101/2025.08.12.669924) _bioRxiv preprint_.
 
-* Ota, M.<sup>&#8224;</sup>, __Spence, J. P.__, Zeng, T., Dann, E., Marson, A.<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [Causal modeling of gene effects from regulators to programs to traits: integration of genetic associations and Perturb-seq.](https://doi.org/10.1101/2025.01.22.634424) _bioRxiv preprint_.
-
 * Milind, N.<sup>&#8224;</sup>, Smith, C. J., Zhu, H., __Spence, J. P.__<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [Buffering and non-monotonic behavior of gene dosage response curves for human complex traits.](https://doi.org/10.1101/2024.11.11.24317065) _medRxiv preprint_.
 
 * Mualim, K. S.\*, __Spence, J. P.__\*, Weiß, C. L.\*, Selmoni, O., Lin, M., and Expósito-Alonso, M. [Genetic diversity loss in the Anthropocene will continue long after habitat destruction ends.](https://doi.org/10.1101/2024.10.21.619096) _bioRxiv preprint_.
 
 
 __2025__
+* Ota, M.<sup>&#8224;</sup>, __Spence, J. P.__, Zeng, T., Dann, E., Milind, N., Marson, A.<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [Causal modelling of gene effects from regulators to programs to traits.](https://doi.org/10.1038/s41586-025-09866-3) _Nature_ (2025).
+
+
 * __Spence, J. P.__\*<sup>&#8224;</sup>, Mostafavi, H.\*<sup>&#8224;</sup>, Ota, M.<sup>&#8224;</sup>, Milind, N., Gjorgjieva, T., Smith, C. J., Simons, Y. B., Sella, G., and Pritchard, J. K.<sup>&#8224;</sup> [Specificity, length and luck drive gene rankings in association studies.](https://doi.org/10.1038/s41586-025-09703-7) _Nature_ (2025).
     [\[research briefing\]](https://www.nature.com/articles/d41586-025-03651-y)
 
