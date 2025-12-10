@@ -11,7 +11,7 @@ title:
 We work at the intersection of statistical genetics, population genetics,
 and machine learning.
 
-We primarily develop methods and theory to understand how
+We develop methods and theory to understand how
 evolution shapes the genetic architecture of complex traits at
 different biological scales, but we are also broadly interested
 in any biological puzzles that present interesting computational or
@@ -26,7 +26,7 @@ Mt. Sutro and Golden Gate Park, and situated between the vibrant
 Inner Sunset and Cole Valley neighborhoods.
 
 <center>
-<img src="../assets/parnassus.jpg" alt="ucsf parnassus campus" width="600" />
+<img src="/assets/inversion_sunrise.png" alt="inversion sunrise" width="600" />
 </center>
 <br>
 Feel free to contact Jeff at jeff.spence@ucsf.edu

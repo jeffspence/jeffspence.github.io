@@ -18,45 +18,47 @@ A list of publications is also available through
 <br>
 
 __preprints__
-* Aguirre, M.&#8224;, __Spence, J. P.__&#8224;, Sella, G.&#8224;, and Pritchard, J. K.&#8224; [Regulatory network topology and the genetic architecture of gene expression.](https://doi.org/10.1101/2025.08.12.669924) _bioRxiv preprint_.
+* Judd, J.<sup>&#8224;</sup>, __Spence, J. P.__<sup>&#8224;</sup>, Milind, N., Kachuri, L., Witte, J. S., and Pritchard, J. K.<sup>&#8224;</sup> [Allele frequencies at recessive disease genes are mainly determined by pleiotropic effects in heterozygotes.](https://doi.org/10.64898/2025.12.05.692665) _bioRxiv preprint_.
 
-* Ota, M.&#8224;, __Spence, J. P.__, Zeng, T., Dann, E., Marson, A.&#8224;, and Pritchard, J. K.&#8224; [Causal modeling of gene effects from regulators to programs to traits: integration of genetic associations and Perturb-seq.](https://doi.org/10.1101/2025.01.22.634424) _bioRxiv preprint_.
+* Aguirre, M.<sup>&#8224;</sup>, __Spence, J. P.__<sup>&#8224;</sup>, Sella, G.<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [Regulatory network topology and the genetic architecture of gene expression.](https://doi.org/10.1101/2025.08.12.669924) _bioRxiv preprint_.
 
-* __Spence, J. P.__\*&#8224;, Mostafavi, H.\*&#8224;, Ota, M.&#8224;, Milind, N., Gjorgjieva, T., Smith, C. J., Simons, Y. B., Sella, G., and Pritchard, J. K.&#8224; [Specificity, length, and luck: How genes are prioritized by rare and common variant association studies.](https://www.biorxiv.org/content/10.1101/2024.12.12.628073v1) _bioRxiv preprint_.
-    [\[.pdf\]](/assets/specificity.pdf/)
+* Ota, M.<sup>&#8224;</sup>, __Spence, J. P.__, Zeng, T., Dann, E., Marson, A.<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [Causal modeling of gene effects from regulators to programs to traits: integration of genetic associations and Perturb-seq.](https://doi.org/10.1101/2025.01.22.634424) _bioRxiv preprint_.
 
-* Milind, N.&#8224;, Smith, C. J., Zhu, H., __Spence, J. P.__&#8224;, and Pritchard, J. K.&#8224; [Buffering and non-monotonic behavior of gene dosage response curves for human complex traits.](https://doi.org/10.1101/2024.11.11.24317065) _medRxiv preprint_.
+* Milind, N.<sup>&#8224;</sup>, Smith, C. J., Zhu, H., __Spence, J. P.__<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [Buffering and non-monotonic behavior of gene dosage response curves for human complex traits.](https://doi.org/10.1101/2024.11.11.24317065) _medRxiv preprint_.
 
 * Mualim, K. S.\*, __Spence, J. P.__\*, Weiß, C. L.\*, Selmoni, O., Lin, M., and Expósito-Alonso, M. [Genetic diversity loss in the Anthropocene will continue long after habitat destruction ends.](https://doi.org/10.1101/2024.10.21.619096) _bioRxiv preprint_.
 
 
 __2025__
+* __Spence, J. P.__\*<sup>&#8224;</sup>, Mostafavi, H.\*<sup>&#8224;</sup>, Ota, M.<sup>&#8224;</sup>, Milind, N., Gjorgjieva, T., Smith, C. J., Simons, Y. B., Sella, G., and Pritchard, J. K.<sup>&#8224;</sup> [Specificity, length and luck drive gene rankings in association studies.](https://doi.org/10.1038/s41586-025-09703-7) _Nature_ (2025).
+    [\[research briefing\]](https://www.nature.com/articles/d41586-025-03651-y)
+
 * Judd, J., __Spence, J. P.__, Pritchard, J. K., Kachuri, L., and Witte, J. S. [Investigating the role of neighborhood socioeconomic status and germline genetics on prostate cancer risk.](https://doi.org/10.1016/j.xhgg.2025.100492) _HGG Advances_ (2025).
 
 
-* Aguirre, M.&#8224;, __Spence, J. P.__&#8224;, Sella, G.&#8224;, and Pritchard, J. K.&#8224; [Gene regulatory network structure informs the distribution of perturbation effects.](https://doi.org/10.1371/journal.pcbi.1013387) _PLoS Computational Biology_ (2025).
+* Aguirre, M.<sup>&#8224;</sup>, __Spence, J. P.__<sup>&#8224;</sup>, Sella, G.<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [Gene regulatory network structure informs the distribution of perturbation effects.](https://doi.org/10.1371/journal.pcbi.1013387) _PLoS Computational Biology_ (2025).
 
 * Schraiber, J. G., __Spence, J. P.__, and Edge, M. D. [Estimation of demography and mutation rates from one million haploid genomes.](https://doi.org/10.1016/j.ajhg.2025.07.008) _American Journal of Human Genetics_ (2025).
 
 
-* Smith, C. J.&#8224;, Strausz, S.&#8224;, FinnGen, __Spence, J. P.__&#8224;, Ollila, H. M.&#8224;, and Pritchard, J. K.&#8224; [Haplotype analysis reveals pleiotropic disease associations in the HLA region.](https://doi.org/10.1016/j.ajhg.2025.06.011) _American Journal of Human Genetics_ (2025).
+* Smith, C. J.<sup>&#8224;</sup>, Strausz, S.<sup>&#8224;</sup>, FinnGen, __Spence, J. P.__<sup>&#8224;</sup>, Ollila, H. M.<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [Haplotype analysis reveals pleiotropic disease associations in the HLA region.](https://doi.org/10.1016/j.ajhg.2025.06.011) _American Journal of Human Genetics_ (2025).
 
 * Batra, S. S.\*, Cabrera, A.\*, __Spence, J. P.__\*, Goell, H., Anand, S. S., Hilton, I. B., and Song, Y. S. [Predicting the effects of CRISPR-Cas9-based epigenome editing.](https://doi.org/10.7554/eLife.92991) _eLife_ (2025).
 
 
 __2024__
-* Patel, R. A.&#8224;, Weiß, C. L., Zhu, H., Mostafavi, H., Simons, Y. B., __Spence, J. P.__&#8224;, and Pritchard, J. K.&#8224; [Characterizing selection on complex traits through conditional frequency spectra.](https://doi.org/10.1093/genetics/iyae210) _Genetics_ (2024).
+* Patel, R. A.<sup>&#8224;</sup>, Weiß, C. L., Zhu, H., Mostafavi, H., Simons, Y. B., __Spence, J. P.__<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [Characterizing selection on complex traits through conditional frequency spectra.](https://doi.org/10.1093/genetics/iyae210) _Genetics_ (2024).
 
 
 *  Czech, L. __Spence, J. P.__, and Expósito-Alonso, M. [grenedalf: population genetic statistics for the next generation of pool sequencing.](https://doi.org/10.1093/bioinformatics/btae508) _Bioinformatics_ (2024).
 
-*  Rothschild, D.\*, Susanto, T. T.\*, Sui, X.\*, __Spence, J. P.__, Rangan, R., Genuth, N. R., Sinnott-Armstrong, N., Wang, X., Pritchard, J. K.&#8224;, and Barna, M.&#8224; [Diversity of ribosomes at the level of rRNA variation associated with human health and disease.](https://doi.org/10.1016/j.xgen.2024.100629) _Cell Genomics_ (2024).
+*  Rothschild, D.\*, Susanto, T. T.\*, Sui, X.\*, __Spence, J. P.__, Rangan, R., Genuth, N. R., Sinnott-Armstrong, N., Wang, X., Pritchard, J. K.<sup>&#8224;</sup>, and Barna, M.<sup>&#8224;</sup> [Diversity of ribosomes at the level of rRNA variation associated with human health and disease.](https://doi.org/10.1016/j.xgen.2024.100629) _Cell Genomics_ (2024).
     [\[.pdf\]](/assets/ribosomes.pdf/)
     [\[supplement\]](/assets/ribosomes_supp.pdf)
     [\[.ris\]](/assets/ribosomes.ris)
 
 
-*  Zeng, T.\* <sup>,</sup> &#8224;, __Spence, J. P.__\* <sup>,</sup> &#8224;, Mostafavi, H., and Pritchard, J. K.&#8224; [Bayesian estimation of gene constraint from an evolutionary model with gene features.](https://doi.org/10.1038/s41588-024-01820-9) _Nature Genetics_ (2024).
+*  Zeng, T.\* <sup>,</sup> <sup>&#8224;</sup>, __Spence, J. P.__\* <sup>,</sup> <sup>&#8224;</sup>, Mostafavi, H., and Pritchard, J. K.<sup>&#8224;</sup> [Bayesian estimation of gene constraint from an evolutionary model with gene features.](https://doi.org/10.1038/s41588-024-01820-9) _Nature Genetics_ (2024).
     [\[.pdf\]](/assets/genebayes.pdf)
     [\[supplement\]](/assets/genebayes_supp.pdf)
     [\[.ris\]](/assets/genebayes.ris)
@@ -76,12 +78,12 @@ __2024__
 
 
 __2023__
-*  Mostafavi, H.&#8224;, __Spence, J. P.__, Naqvi, S., and Pritchard, J. K.&#8224;.  [Systematic differences in discovery of genetic effects on gene expression and complex traits.](https://doi.org/10.1038/s41588-023-01529-1) _Nature Genetics_ (2023).
+*  Mostafavi, H.<sup>&#8224;</sup>, __Spence, J. P.__, Naqvi, S., and Pritchard, J. K.<sup>&#8224;</sup>.  [Systematic differences in discovery of genetic effects on gene expression and complex traits.](https://doi.org/10.1038/s41588-023-01529-1) _Nature Genetics_ (2023).
     [\[.pdf\]](/assets/gwas_eqtl.pdf)
     [\[supplement\]](/assets/gwas_eqtl_supp.pdf)
     [\[.ris\]](/assets/gwas_eqtl.ris)
 
-* __Spence, J. P.__&#8224;, Zeng, T., Mostafavi, H., and Pritchard, J. K. [Scaling the Discrete-time Wright-Fisher model to biobank-scale datasets.]( https://doi.org/10.1093/genetics/iyad168) _Genetics_ (2023).
+* __Spence, J. P.__<sup>&#8224;</sup>, Zeng, T., Mostafavi, H., and Pritchard, J. K. [Scaling the Discrete-time Wright-Fisher model to biobank-scale datasets.]( https://doi.org/10.1093/genetics/iyad168) _Genetics_ (2023).
     [\[.pdf\]](/assets/dtwf.pdf)
     [\[.ris\]](/assets/dtwf.ris)
 
@@ -102,7 +104,7 @@ __2023__
 
 
 __2022__
-*  __Spence, J. P.__&#8224;, Sinnott-Armstrong, N., Assimes, T., and Pritchard, J. K.&#8224; [A flexible modeling and inference framework for estimating variant effect sizes from GWAS summary statistics.](https://doi.org/10.1101/2022.04.18.488696) _bioRxiv_.
+*  __Spence, J. P.__<sup>&#8224;</sup>, Sinnott-Armstrong, N., Assimes, T., and Pritchard, J. K.<sup>&#8224;</sup> [A flexible modeling and inference framework for estimating variant effect sizes from GWAS summary statistics.](https://doi.org/10.1101/2022.04.18.488696) _bioRxiv_.
 
 *  Czech, L.\*, Peng, Y.\*, __Spence, J. P.__, _et al._ [Monitoring rapid evolution of plant populations at scale with Pool-sequencing.](https://doi.org/10.1101/2022.02.02.477408) _bioRxiv_.
 
@@ -137,7 +139,7 @@ __2020__
 
 
 __2019__
-*   __Spence, J. P.__&#8224; and Song, Y. S.&#8224; 
+*   __Spence, J. P.__<sup>&#8224;</sup> and Song, Y. S.<sup>&#8224;</sup> 
     [Inference and analysis of population-specific fine-scale recombination 
     maps across 26 diverse human populations.](https://doi.org/10.1126/sciadv.aaw9206)
     _Science Advances_, Vol. 5, No. 10, eaaw9206 (2019).
