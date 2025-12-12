@@ -41,9 +41,9 @@ a variant to be selected against.
 
 Relevant papers:
 
-*  Zeng, T.\* <sup>,</sup> &#8224;, __Spence, J. P.__\* <sup>,</sup> &#8224;, Mostafavi, H., and Pritchard, J. K.&#8224; [Bayesian estimation of gene constraint from an evolutionary model with gene features.](https://doi.org/10.1038/s41588-024-01820-9) _Nature Genetics_ (2024).
+*  Zeng, T.\* <sup>,</sup> <sup>&#8224;</sup>, __Spence, J. P.__\* <sup>,</sup> <sup>&#8224;</sup>, Mostafavi, H., and Pritchard, J. K.<sup>&#8224;</sup> [Bayesian estimation of gene constraint from an evolutionary model with gene features.](https://doi.org/10.1038/s41588-024-01820-9) _Nature Genetics_ (2024).
 
-* __Spence, J. P.__&#8224;, Zeng, T., Mostafavi, H., and Pritchard, J. K. [Scaling the Discrete-time Wright-Fisher model to biobank-scale datasets.]( https://doi.org/10.1093/genetics/iyad168) _Genetics_ (2023).
+* __Spence, J. P.__<sup>&#8224;</sup>, Zeng, T., Mostafavi, H., and Pritchard, J. K. [Scaling the Discrete-time Wright-Fisher model to biobank-scale datasets.]( https://doi.org/10.1093/genetics/iyad168) _Genetics_ (2023).
 
 
 ### Causes and consequences of trait specificity
@@ -71,7 +71,7 @@ such trait specificity can arise.
 
 Relevant paper:
 
-* __Spence, J. P.__\*&#8224;, Mostafavi, H.\*&#8224;, Ota, M.&#8224;, Milind, N., Gjorgjieva, T., Smith, C. J., Simons, Y. B., Sella, G., and Pritchard, J. K.&#8224; [Specificity, length and luck drive gene rankings in association studies.](https://doi.org/10.1038/s41586-025-09703-7) _Nature_ (2025).
+* __Spence, J. P.__\*<sup>&#8224;</sup>, Mostafavi, H.\*<sup>&#8224;</sup>, Ota, M.<sup>&#8224;</sup>, Milind, N., Gjorgjieva, T., Smith, C. J., Simons, Y. B., Sella, G., and Pritchard, J. K.<sup>&#8224;</sup> [Specificity, length and luck drive gene rankings in association studies.](https://doi.org/10.1038/s41586-025-09703-7) _Nature_ (2025).
 
 
 ### Genetic impact of stabilizing selection on traits
@@ -110,9 +110,9 @@ Can we use these insights to improve genomic or protein language models?
 
 Relevant papers:
 
-* __Spence, J. P.__\*&#8224;, Mostafavi, H.\*&#8224;, Ota, M.&#8224;, Milind, N., Gjorgjieva, T., Smith, C. J., Simons, Y. B., Sella, G., and Pritchard, J. K.&#8224; [Specificity, length and luck drive gene rankings in association studies.](https://doi.org/10.1038/s41586-025-09703-7) _Nature_ (2025).
+* __Spence, J. P.__\*<sup>&#8224;</sup>, Mostafavi, H.\*<sup>&#8224;</sup>, Ota, M.<sup>&#8224;</sup>, Milind, N., Gjorgjieva, T., Smith, C. J., Simons, Y. B., Sella, G., and Pritchard, J. K.<sup>&#8224;</sup> [Specificity, length and luck drive gene rankings in association studies.](https://doi.org/10.1038/s41586-025-09703-7) _Nature_ (2025).
 
-* Patel, R. A.&#8224;, Weiß, C. L., Zhu, H., Mostafavi, H., Simons, Y. B., __Spence, J. P.__&#8224;, and Pritchard, J. K.&#8224; [Characterizing selection on complex traits through conditional frequency spectra.](https://doi.org/10.1093/genetics/iyae210) _Genetics_ (2024).
+* Patel, R. A.<sup>&#8224;</sup>, Weiß, C. L., Zhu, H., Mostafavi, H., Simons, Y. B., __Spence, J. P.__<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [Characterizing selection on complex traits through conditional frequency spectra.](https://doi.org/10.1093/genetics/iyae210) _Genetics_ (2024).
 
 
 ### Population genetics of climate change
