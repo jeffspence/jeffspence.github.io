@@ -18,6 +18,8 @@ A list of publications is also available through
 <br>
 
 __preprints__
+* Gerlach, P. A.\*<sup>&#8224;</sup>, Milind, N.\*<sup>&#8224;</sup>, __Spence, J. P.__<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [High false sign rates in transcriptome-wide association studies.](https://doi.org/10.64898/2025.12.19.695550) _bioRxiv preprint_.
+
 * Judd, J.<sup>&#8224;</sup>, __Spence, J. P.__<sup>&#8224;</sup>, Milind, N., Kachuri, L., Witte, J. S., and Pritchard, J. K.<sup>&#8224;</sup> [Allele frequencies at recessive disease genes are mainly determined by pleiotropic effects in heterozygotes.](https://doi.org/10.64898/2025.12.05.692665) _bioRxiv preprint_.
 
 * Aguirre, M.<sup>&#8224;</sup>, __Spence, J. P.__<sup>&#8224;</sup>, Sella, G.<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [Regulatory network topology and the genetic architecture of gene expression.](https://doi.org/10.1101/2025.08.12.669924) _bioRxiv preprint_.
