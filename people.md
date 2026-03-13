@@ -3,7 +3,7 @@ layout: page
 title: People
 permalink: /people/
 ---
-## Lab Members
+## Current group members
 
 ---
 

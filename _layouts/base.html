@@ -1,8 +1,9 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
-  {%- include head.html -%}
-  <body>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
 
+  {%- include head.html -%}
+
+  <body>
     <a class="skip-link" href="#main-content">Skip to main content</a>
     {%- include header.html -%}
 
@@ -13,6 +14,8 @@
     </main>
 
     {%- include footer.html -%}
+
+    {%- include sub-footer.html -%}
 
   </body>
 

@@ -3,8 +3,6 @@ layout: page
 title: Research
 permalink: /research/
 ---
-
-
 We work at the intersection of population genetics,
 statistical genetics, and machine learning.
 We use a combination of conceptual models,
@@ -17,7 +15,7 @@ years. Some of the things we are particular interested
 in are:
 
 
-### Methods for inferring and interpreting evolutionary constraint
+## Methods for inferring and interpreting evolutionary constraint
 
 The mutations that we see in a sample of present-day individuals
 are an extremely biased subset of all possible mutations: they must
@@ -46,7 +44,7 @@ Relevant papers:
 * __Spence, J. P.__<sup>&#8224;</sup>, Zeng, T., Mostafavi, H., and Pritchard, J. K. [Scaling the Discrete-time Wright-Fisher model to biobank-scale datasets.]( https://doi.org/10.1093/genetics/iyad168) _Genetics_ (2023).
 
 
-### Causes and consequences of trait specificity
+## Causes and consequences of trait specificity
 
 Genetic variants are often pleiotropic, meaning that they
 impact multiple traits. One explanation of this is the
@@ -74,7 +72,7 @@ Relevant paper:
 * __Spence, J. P.__\*<sup>&#8224;</sup>, Mostafavi, H.\*<sup>&#8224;</sup>, Ota, M.<sup>&#8224;</sup>, Milind, N., Gjorgjieva, T., Smith, C. J., Simons, Y. B., Sella, G., and Pritchard, J. K.<sup>&#8224;</sup> [Specificity, length and luck drive gene rankings in association studies.](https://doi.org/10.1038/s41586-025-09703-7) _Nature_ (2025).
 
 
-### Genetic impact of stabilizing selection on traits
+## Genetic impact of stabilizing selection on traits
 
 Many traits, including risks for many diseases,
 appear to be under _stabilizing selection_: 
@@ -115,7 +113,7 @@ Relevant papers:
 * Patel, R. A.<sup>&#8224;</sup>, Weiß, C. L., Zhu, H., Mostafavi, H., Simons, Y. B., __Spence, J. P.__<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [Characterizing selection on complex traits through conditional frequency spectra.](https://doi.org/10.1093/genetics/iyae210) _Genetics_ (2024).
 
 
-### Population genetics of climate change
+## Population genetics of climate change
 
 Anthropogenic climate change is driving the sixth mass extinction.
 Beyond the loss of entire species, we are also witnessing threats

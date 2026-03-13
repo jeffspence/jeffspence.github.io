@@ -3,8 +3,7 @@ layout: page
 title: Software and Data
 permalink: /software/
 ---
-
-# Software:
+## Software:
 [wfmoments](#wfmoments) <br>
 [fastDTWF](#fastdtwf) <br>
 [vilma](#vilma) <br>
@@ -12,14 +11,14 @@ permalink: /software/
 [defiNETti](#definetti)
 
 <br>
-# Data:
+## Data:
 [Human recombination maps](#fine-scale-human-recombination-maps) <br> 
 [Neanderthal introgression calls](#neanderthal-introgression-calls) <br>
 [Gene-level loss-of-function constraint](#gene-level-loss-of-function-constraint)
 <br>
 <br>
 <br>
-# [wfmoments](https://github.com/jeffspence/wfmoments)
+## [wfmoments](https://github.com/jeffspence/wfmoments)
 __fast calculation of heterozygosity under spatial models__
 <br>
 <br>
@@ -30,7 +29,7 @@ deme models. wfmoments is described in the supplement of this [paper](https://ww
 <br>
 <br>
 <br>
-# [fastDTWF](https://github.com/jeffspence/fastDTWF)
+## [fastDTWF](https://github.com/jeffspence/fastDTWF)
 __fast calculation of likelihoods under the Discrete-Time Wright-Fisher model__
 <br>
 <br>
@@ -43,7 +42,7 @@ mutation and selection.  fastDTWF is described in this [paper](https://doi.org/1
 <br>
 <br>
 <br>
-# [vilma](https://github.com/jeffspence/vilma)
+## [vilma](https://github.com/jeffspence/vilma)
 __polygenic scores using variational inference on gwas summary statistics from multiple cohorts__
 <br>
 <br>
@@ -56,7 +55,7 @@ to one or two cohorts. vilma is described in this
 <br>
 <br>
 <br>
-# [pyrho](https://github.com/popgenmethods/pyrho)
+## [pyrho](https://github.com/popgenmethods/pyrho)
 __fast inference of fine-scale recombination rates__ 
 <br>
 <br>
@@ -76,7 +75,7 @@ Those maps are available
 <br>
 <br>
 <br>
-# [defiNETti](https://github.com/popgenmethods/defiNETti)
+## [defiNETti](https://github.com/popgenmethods/defiNETti)
 __exchangeable neural networks__ 
 <br>
 <br>
@@ -91,7 +90,7 @@ permutation-invariance) and trains them using
 <br>
 <br>
 <br>
-# [Fine-scale human recombination maps](https://zenodo.org/records/11437540)
+## [Fine-scale human recombination maps](https://zenodo.org/records/11437540)
 __accurate, population-specific fine-scale recombination maps
 for 26 populations__ 
 <br>
@@ -112,7 +111,7 @@ via the wonderful [stdpopsim](https://stdpopsim.readthedocs.io/en/latest/) proje
 <br>
 <br>
 <br>
-# [Neanderthal introgression calls](https://drive.google.com/drive/folders/0B_RxlKHkUXRDflZDd0xWTEVNWVF2OFppUmNka3ZWN19pbU5qVjBVV2lGVVBuQTJkWE5KTDg)
+## [Neanderthal introgression calls](https://drive.google.com/drive/folders/0B_RxlKHkUXRDflZDd0xWTEVNWVF2OFppUmNka3ZWN19pbU5qVjBVV2lGVVBuQTJkWE5KTDg)
 __posterior probabilities of introgression in modern humans__ 
 <br>
 <br>
@@ -128,7 +127,7 @@ The method and an analysis of the tracts are presented in our
 <br>
 <br>
 <br>
-# [Gene-level loss-of-function constraint](https://zenodo.org/records/10403680)
+## [Gene-level loss-of-function constraint](https://zenodo.org/records/10403680)
 __estimates of the strength of selection against loss-of-function variants__
 <br>
 <br>

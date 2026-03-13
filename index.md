@@ -2,7 +2,6 @@
 layout: home
 title: 
 ---
-
 <center>
 <p style="font-size:40px">Hello and welcome to the Spence Group @ UCSF</p>
 </center>
@@ -26,7 +25,9 @@ Mt. Sutro and Golden Gate Park, and situated between the vibrant
 Inner Sunset and Cole Valley neighborhoods.
 
 <center>
-<img src="/assets/inversion_sunrise.png" alt="inversion sunrise" width="600" />
+<img src="/assets/inversion_sunrise.png" alt="Picture of the Golden Gate Bridge and San Francisco skyline poking out through a sea of fog in front of a glowing orange sunrise." width="600" />
 </center>
 <br>
-Feel free to contact Jeff at jeff.spence@ucsf.edu
+Feel free to <a href="mailto:jeff.spence@ucsf.edu">
+  email Jeff.
+</a>

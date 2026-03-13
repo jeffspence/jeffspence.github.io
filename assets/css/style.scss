@@ -1,0 +1,51 @@
+---
+
+# Only the main Sass file needs front matter (the dashes are enough)
+
+---
+
+@import
+"minima/skins/{{ site.minima.skin | default: 'classic' }}",
+"minima/initialize";
+
+/* -------------------------------
+Skip link (keyboard navigation)
+-------------------------------- */
+
+.skip-link {
+position: absolute;
+left: -9999px;
+top: auto;
+}
+
+.skip-link:focus-visible {
+position: absolute;
+left: 10px;
+top: 10px;
+background: #fdf6e3;   /* Solarized background */
+color: #000000;
+padding: 8px 12px;
+border: 2px solid #000;
+z-index: 1000;
+}
+
+/* -------------------------------
+Improved keyboard focus styles
+-------------------------------- */
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+select:focus-visible {
+outline: 3px solid #268bd2;   /* Solarized blue */
+outline-offset: 2px;
+border-radius: 3px;
+}
+
+/* Slight highlight for focused links */
+
+a:focus-visible {
+background-color: rgba(38, 139, 210, 0.15);
+}
+
