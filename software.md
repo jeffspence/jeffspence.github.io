@@ -36,7 +36,7 @@ __fast calculation of likelihoods under the Discrete-Time Wright-Fisher model__
 [fastDTWF](https://github.com/jeffspence/fastDTWF)
 implements machinery for computing various likelihoods under the
 Discrete-Time Wright-Fisher model. This includes computing frequency spectra and
-transition mass functions. The machiney can handle quite general models incorporating
+transition mass functions. The machinery can handle quite general models incorporating
 mutation and selection.  fastDTWF is described in this [paper](https://doi.org/10.1093/genetics/iyad168).
 
 <br>
@@ -47,7 +47,7 @@ __polygenic scores using variational inference on gwas summary statistics from m
 <br>
 <br>
 [vilma](https://github.com/jeffspence/vilma) is a method for building
-polygenic scores and inferring effect size distributions (genetic archtecture)
+polygenic scores and inferring effect size distributions (genetic architecture)
 from gwas summary statistics and ld reference panels. vilma can be applied
 to one or two cohorts. vilma is described in this
 [paper](https://www.biorxiv.org/content/10.1101/2022.04.18.488696v1).
@@ -133,6 +133,6 @@ __estimates of the strength of selection against loss-of-function variants__
 <br>
 We developed powerful machinery to combine information across genes,
 [GeneBayes](https://github.com/tkzeng/GeneBayes), to estimate the strength of selection acting against
-loss-of-function variants in almost every proteint-coding gene in the human genome. The method
+loss-of-function variants in almost every protein-coding gene in the human genome. The method
 and an analysis of the constraint measures are presented in our
 [paper](https://www.nature.com/articles/s41588-024-01820-9).

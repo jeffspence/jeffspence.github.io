@@ -9,7 +9,7 @@ permalink: /people/
 
 ### Zefan Huang
 
-<img src="../assets/zefan.jpg" alt="zefan" height="200" align="left" style="margin: 0px 10px 0px 0px;" />
+<img src="../assets/zefan.jpg" alt="Zefan" height="200" align="left" style="margin: 0px 10px 0px 0px;" />
 <br>
 <br>
 <br>
@@ -25,7 +25,7 @@ in genomic and protein language models.
 
 ### Jeff Spence (jeff.spence@ucsf.edu)
 
-<img src="../assets/jeff.jpg" alt="jeff" height="200" align="left" style="margin: 0px 10px 0px 0px;" />
+<img src="../assets/jeff.jpg" alt="Jeff" height="200" align="left" style="margin: 0px 10px 0px 0px;" />
 
 Jeff is an assistant professor in the
 [Institute for Human Genetics](https://humangenetics.ucsf.edu/),

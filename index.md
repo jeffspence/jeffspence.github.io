@@ -25,7 +25,7 @@ Mt. Sutro and Golden Gate Park, and situated between the vibrant
 Inner Sunset and Cole Valley neighborhoods.
 
 <center>
-<img src="/assets/inversion_sunrise.png" alt="Picture of the Golden Gate Bridge and San Francisco skyline poking out through a sea of fog in front of a glowing orange sunrise." width="600" />
+<img src="/assets/inversion_sunrise.png" alt="The Golden Gate Bridge and San Francisco skyline poking out through a sea of fog in front of a glowing orange sunrise." width="600" />
 </center>
 <br>
 Feel free to <a href="mailto:jeff.spence@ucsf.edu">
