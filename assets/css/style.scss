@@ -8,6 +8,19 @@
 "minima/skins/{{ site.minima.skin | default: 'classic' }}",
 "minima/initialize";
 
+  /* -------------------------------
+  underlining URLs
+  -------------------------------- */
+
+a {
+  text-decoration: underline;
+}
+
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
+
 /* -------------------------------
 Skip link (keyboard navigation)
 -------------------------------- */
