@@ -20,6 +20,8 @@ A list of publications is also available through
 <br>
 
 ## Preprints
+* Zhu, H.\*<sup>&#8224;</sup>, Simons, Y. B., __Spence, J. P.__, Sella, G.\*<sup>&#8224;</sup>, and Pritchard, J. K.\*<sup>&#8224;</sup> [Genetic architectures of brain-related traits are shaped by strong selective constraints](https://doi.org/10.64898/2026.03.22.713538) _bioRxiv preprint_.
+
 * Gerlach, P. A.\*<sup>&#8224;</sup>, Milind, N.\*<sup>&#8224;</sup>, __Spence, J. P.__<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [High false sign rates in transcriptome-wide association studies.](https://doi.org/10.64898/2025.12.19.695550) _bioRxiv preprint_.
 
 * Judd, J.<sup>&#8224;</sup>, __Spence, J. P.__<sup>&#8224;</sup>, Milind, N., Kachuri, L., Witte, J. S., and Pritchard, J. K.<sup>&#8224;</sup> [Allele frequencies at recessive disease genes are mainly determined by pleiotropic effects in heterozygotes.](https://doi.org/10.64898/2025.12.05.692665) _bioRxiv preprint_.
@@ -28,18 +30,22 @@ A list of publications is also available through
 
 * Milind, N.<sup>&#8224;</sup>, Smith, C. J., Zhu, H., __Spence, J. P.__<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [Buffering and non-monotonic behavior of gene dosage response curves for human complex traits.](https://doi.org/10.1101/2024.11.11.24317065) _medRxiv preprint_.
 
-* Mualim, K. S.\*, __Spence, J. P.__\*, Weiß, C. L.\*, Selmoni, O., Lin, M., and Expósito-Alonso, M. [Genetic diversity loss in the Anthropocene will continue long after habitat destruction ends.](https://doi.org/10.1101/2024.10.21.619096) _bioRxiv preprint_.
 
+## 2026
 
-## 2025
-* Ota, M.<sup>&#8224;</sup>, __Spence, J. P.__, Zeng, T., Dann, E., Milind, N., Marson, A.<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [Causal modelling of gene effects from regulators to programs to traits.](https://doi.org/10.1038/s41586-025-09866-3) _Nature_ (2025).
+* Mualim, K. S.\*, __Spence, J. P.__\*, Weiß, C. L.\*, Selmoni, O., Lin, M., and Expósito-Alonso, M. [Large future genetic diversity losses are predicted from conservation indicators even with habitat protection.](https://doi.org/10.1073/pnas.2514371123) _PNAS_ (2026).
+
+* Ota, M.<sup>&#8224;</sup>, __Spence, J. P.__, Zeng, T., Dann, E., Milind, N., Marson, A.<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [Causal modelling of gene effects from regulators to programs to traits.](https://doi.org/10.1038/s41586-025-09866-3) _Nature_ (2026).
     [\[research briefing\]](https://www.nature.com/articles/d41586-025-04004-5)
 
-
-* __Spence, J. P.__\*<sup>&#8224;</sup>, Mostafavi, H.\*<sup>&#8224;</sup>, Ota, M.<sup>&#8224;</sup>, Milind, N., Gjorgjieva, T., Smith, C. J., Simons, Y. B., Sella, G., and Pritchard, J. K.<sup>&#8224;</sup> [Specificity, length and luck drive gene rankings in association studies.](https://doi.org/10.1038/s41586-025-09703-7) _Nature_ (2025).
+* __Spence, J. P.__\*<sup>&#8224;</sup>, Mostafavi, H.\*<sup>&#8224;</sup>, Ota, M.<sup>&#8224;</sup>, Milind, N., Gjorgjieva, T., Smith, C. J., Simons, Y. B., Sella, G., and Pritchard, J. K.<sup>&#8224;</sup> [Specificity, length and luck drive gene rankings in association studies.](https://doi.org/10.1038/s41586-025-09703-7) _Nature_ (2026).
     [\[research briefing\]](https://www.nature.com/articles/d41586-025-03651-y)
     [\[research highlight\]](https://www.nature.com/articles/s41588-025-02459-w)
 
+* Batra, S. S.\*, Cabrera, A.\*, __Spence, J. P.__\*, Goell, H., Anand, S. S., Hilton, I. B., and Song, Y. S. [Predicting the effects of CRIS citationPR-Cas9-based epigenome editing.](https://doi.org/10.7554/eLife.92991.4) _eLife_ (2026).
+
+
+## 2025
 * Judd, J., __Spence, J. P.__, Pritchard, J. K., Kachuri, L., and Witte, J. S. [Investigating the role of neighborhood socioeconomic status and germline genetics on prostate cancer risk.](https://doi.org/10.1016/j.xhgg.2025.100492) _HGG Advances_ (2025).
 
 
@@ -49,8 +55,6 @@ A list of publications is also available through
 
 
 * Smith, C. J.<sup>&#8224;</sup>, Strausz, S.<sup>&#8224;</sup>, FinnGen, __Spence, J. P.__<sup>&#8224;</sup>, Ollila, H. M.<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [Haplotype analysis reveals pleiotropic disease associations in the HLA region.](https://doi.org/10.1016/j.ajhg.2025.06.011) _American Journal of Human Genetics_ (2025).
-
-* Batra, S. S.\*, Cabrera, A.\*, __Spence, J. P.__\*, Goell, H., Anand, S. S., Hilton, I. B., and Song, Y. S. [Predicting the effects of CRIS citationPR-Cas9-based epigenome editing.](https://doi.org/10.7554/eLife.92991) _eLife_ (2025).
 
 
 ## 2024
