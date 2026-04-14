@@ -11,7 +11,7 @@ and large-scale data analysis to understand
 human genetics: from how mutations
 impact cells all the way up to how those mutations are affected
 by natural selection over hundreds of thousands of
-years. Some of the things we are particular interested
+years. Some of the things we are particularly interested
 in are:
 
 
