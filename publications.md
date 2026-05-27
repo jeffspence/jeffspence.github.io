@@ -20,7 +20,7 @@ A list of publications is also available through
 <br>
 
 ## Preprints
-* Zhu, H.\*<sup>&#8224;</sup>, Simons, Y. B., __Spence, J. P.__, Sella, G.\*<sup>&#8224;</sup>, and Pritchard, J. K.\*<sup>&#8224;</sup> [Genetic architectures of brain-related traits are shaped by strong selective constraints](https://doi.org/10.64898/2026.03.22.713538) _bioRxiv preprint_.
+* Zhu, H.<sup>&#8224;</sup>, Simons, Y. B., __Spence, J. P.__, Sella, G.<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [Genetic architectures of brain-related traits are shaped by strong selective constraints](https://doi.org/10.64898/2026.03.22.713538) _bioRxiv preprint_.
 
 * Gerlach, P. A.\*<sup>&#8224;</sup>, Milind, N.\*<sup>&#8224;</sup>, __Spence, J. P.__<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [High false sign rates in transcriptome-wide association studies.](https://doi.org/10.64898/2025.12.19.695550) _bioRxiv preprint_.
 
