@@ -39,6 +39,8 @@ a variant to be selected against.
 
 Relevant papers:
 
+* Judd, J.<sup>&#8224;</sup>, __Spence, J. P.__<sup>&#8224;</sup>, Milind, N., Kachuri, L., Witte, J. S., and Pritchard, J. K.<sup>&#8224;</sup> [Allele frequencies at recessive disease genes are mainly determined by pleiotropic effects in heterozygotes.](https://doi.org/10.1093/genetics/iyag150) _Genetics_ (2026).
+
 *  Zeng, T.\* <sup>,</sup> <sup>&#8224;</sup>, __Spence, J. P.__\* <sup>,</sup> <sup>&#8224;</sup>, Mostafavi, H., and Pritchard, J. K.<sup>&#8224;</sup> [Bayesian estimation of gene constraint from an evolutionary model with gene features.](https://doi.org/10.1038/s41588-024-01820-9) _Nature Genetics_ (2024).
 
 * __Spence, J. P.__<sup>&#8224;</sup>, Zeng, T., Mostafavi, H., and Pritchard, J. K. [Scaling the Discrete-time Wright-Fisher model to biobank-scale datasets.]( https://doi.org/10.1093/genetics/iyad168) _Genetics_ (2023).
@@ -69,7 +71,7 @@ such trait specificity can arise.
 
 Relevant paper:
 
-* __Spence, J. P.__\*<sup>&#8224;</sup>, Mostafavi, H.\*<sup>&#8224;</sup>, Ota, M.<sup>&#8224;</sup>, Milind, N., Gjorgjieva, T., Smith, C. J., Simons, Y. B., Sella, G., and Pritchard, J. K.<sup>&#8224;</sup> [Specificity, length and luck drive gene rankings in association studies.](https://doi.org/10.1038/s41586-025-09703-7) _Nature_ (2025).
+* __Spence, J. P.__\*<sup>&#8224;</sup>, Mostafavi, H.\*<sup>&#8224;</sup>, Ota, M.<sup>&#8224;</sup>, Milind, N., Gjorgjieva, T., Smith, C. J., Simons, Y. B., Sella, G., and Pritchard, J. K.<sup>&#8224;</sup> [Specificity, length and luck drive gene rankings in association studies.](https://doi.org/10.1038/s41586-025-09703-7) _Nature_ (2026).
 
 
 ## Genetic impact of stabilizing selection on traits
@@ -108,7 +110,7 @@ Can we use these insights to improve genomic or protein language models?
 
 Relevant papers:
 
-* __Spence, J. P.__\*<sup>&#8224;</sup>, Mostafavi, H.\*<sup>&#8224;</sup>, Ota, M.<sup>&#8224;</sup>, Milind, N., Gjorgjieva, T., Smith, C. J., Simons, Y. B., Sella, G., and Pritchard, J. K.<sup>&#8224;</sup> [Specificity, length and luck drive gene rankings in association studies.](https://doi.org/10.1038/s41586-025-09703-7) _Nature_ (2025).
+* __Spence, J. P.__\*<sup>&#8224;</sup>, Mostafavi, H.\*<sup>&#8224;</sup>, Ota, M.<sup>&#8224;</sup>, Milind, N., Gjorgjieva, T., Smith, C. J., Simons, Y. B., Sella, G., and Pritchard, J. K.<sup>&#8224;</sup> [Specificity, length and luck drive gene rankings in association studies.](https://doi.org/10.1038/s41586-025-09703-7) _Nature_ (2026).
 
 * Patel, R. A.<sup>&#8224;</sup>, Weiß, C. L., Zhu, H., Mostafavi, H., Simons, Y. B., __Spence, J. P.__<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [Characterizing selection on complex traits through conditional frequency spectra.](https://doi.org/10.1093/genetics/iyae210) _Genetics_ (2024).
 
@@ -131,6 +133,6 @@ the spatial structure of habitat loss.
 
 Relevant papers:
 
-* Mualim, K. S.\*, __Spence, J. P.__\*, Weiß, C. L.\*, Selmoni, O., Lin, M., and Expósito-Alonso, M. [Genetic diversity loss in the Anthropocene will continue long after habitat destruction ends.](https://doi.org/10.1101/2024.10.21.619096) _bioRxiv preprint_.
+* Mualim, K. S.\*, __Spence, J. P.__\*, Weiß, C. L.\*, Selmoni, O., Lin, M., and Expósito-Alonso, M. [Large future genetic diversity losses are predicted from conservation indicators even with habitat protection.](https://doi.org/10.1073/pnas.2514371123) _PNAS_ (2026).
 
 *   Expósito-Alonso, M., Booker, T. R.<sup>&amp;</sup>, Czech, L.<sup>&amp;</sup>, Gillespie, L.<sup>&amp;</sup>, Hately, S.<sup>&amp;</sup>, Kyriazis, C. C.<sup>&amp;</sup>, Lang, P. L. M.<sup>&amp;</sup>, Leventhal, L.<sup>&amp;</sup>, Nogues-Bravo, D.<sup>&amp;</sup>, Pagowski, V.<sup>&amp;</sup>, Ruffley, M.<sup>&amp;</sup>, __Spence, J. P.__<sup>&amp;</sup>, Toro Arana, S. E.<sup>&amp;</sup>, Weiß, C. L.<sup>&amp;</sup>, and Zess, E.<sup>&amp;</sup>  [Genetic diversity loss in the Anthropocene.](https://doi.org/10.1126/science.abn5642) _Science_ (2022).
