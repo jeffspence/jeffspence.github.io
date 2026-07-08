@@ -23,6 +23,23 @@ in genomic and protein language models.
 
 ---
 
+### Kiran Kumar
+
+<img src="../assets/kiran.jpg" alt="Kiran" height="200" align="left" style="margin: 0px 10px 0px 0px;" />
+<br>
+<br>
+<br>
+Kiran is a postdoc in the group. Kiran received her Ph.D. in [Biostatistics](https://sph.umich.edu/biostat)
+from the University of Michigan School of Public Health,
+where she worked with [Sebastian Zöllner](https://csg.sph.umich.edu/szoellner/). Kiran is developing
+methods at the interface of population genetics and statistical genetics.
+<br>
+<br>
+<br>
+<br>
+
+---
+
 ### Jeff Spence (jeff.spence@ucsf.edu)
 
 <img src="../assets/jeff.jpg" alt="Jeff" height="200" align="left" style="margin: 0px 10px 0px 0px;" />
@@ -53,7 +70,7 @@ from UC Berkeley under the supervision of the incomparable
 ### Ph.D. students
 We are currently looking for graduate students.
 
-If you are interested in joining the lab consider
+If you are interested in joining the lab, consider
 applying to one of UCSF's
 [quantitative biosciences programs](https://qbc.ucsf.edu/).
 
