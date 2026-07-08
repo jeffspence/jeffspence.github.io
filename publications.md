@@ -7,8 +7,8 @@ I am happy to provide PDFs for any paper listed here upon email request.
 
 For publications with more than a handful of authors, only the first
 few authors are listed.   
-A list of publications is also available through
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=jMaIpR4AAAAJ&view_op=list_works&sortby=pubdate)
+A list of Jeff's publications is also available through
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=jMaIpR4AAAAJ&view_op=list_works&sortby=pubdate).
 <br>
 <br>
 
