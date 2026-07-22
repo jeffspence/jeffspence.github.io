@@ -31,7 +31,7 @@ in genomic and protein language models.
 <br>
 Kiran is a postdoc in the group. Kiran received her Ph.D. in [Biostatistics](https://sph.umich.edu/biostat)
 from the University of Michigan School of Public Health,
-where she worked with [Sebastian Zöllner](https://csg.sph.umich.edu/szoellner/). Kiran is developing
+working with [Sebastian Zöllner](https://csg.sph.umich.edu/szoellner/). Kiran is developing
 methods at the interface of population genetics and statistical genetics.
 <br>
 <br>
@@ -85,4 +85,4 @@ postdocs interested in quantitative work.
 Experience in statistical genetics,
 machine learning, or population genetics is a plus.
 
-Email Jeff a copy of your cv to chat about openings.
+Email Jeff a copy of your CV to chat about openings.
