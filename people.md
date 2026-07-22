@@ -40,6 +40,39 @@ methods at the interface of population genetics and statistical genetics.
 
 ---
 
+### Manya Lalwani
+
+<img src="../assets/manya.jpg" alt="Manya" height="200" align="left" style="margin: 0px 10px 0px 0px;" />
+<br>
+<br>
+<br>
+Manya is a bioinformatician in the group and a [UCSF PROPEL](https://propel.ucsf.edu/) scholar.
+Manya was previously an undergrad at UChicago in Data Science, Biochemistry, and Chemistry.
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+### Maya Lemmon-Kishi
+
+<img src="../assets/maya.jpg" alt="Maya" height="200" align="left" style="margin: 0px 10px 0px 0px;" />
+<br>
+<br>
+<br>
+Maya is a postdoc in the group.  Maya received her Ph.D. in [Computational Biology](http://ccb.berkeley.edu)
+from UC Berkeley (go bears!), working with [Rasmus Nielsen](https://nielsen-lab.github.io/).
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+
 ### Jeff Spence (jeff.spence@ucsf.edu)
 
 <img src="../assets/jeff.jpg" alt="Jeff" height="200" align="left" style="margin: 0px 10px 0px 0px;" />
