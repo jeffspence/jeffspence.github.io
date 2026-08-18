@@ -20,6 +20,8 @@ A list of Jeff's publications is also available through
 <br>
 
 ## Preprints
+* Deng, Y.<sup>&#8224;</sup>, Pritchard, J. K.<sup>&#8224;</sup>, and __Spence, J. P.__<sup>&#8224;</sup> [Coalescent-Based Time-Stratified Statistics Reveal Population Structure Dynamics using the Ancestral Recombination Graph](https://doi.org/10.64898/2026.08.11.744210) _bioRxiv preprint_.
+
 * Zhu, H.<sup>&#8224;</sup>, Simons, Y. B., __Spence, J. P.__, Sella, G.<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [Genetic architectures of brain-related traits are shaped by strong selective constraints](https://doi.org/10.64898/2026.03.22.713538) _bioRxiv preprint_.
 
 
