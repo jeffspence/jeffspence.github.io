@@ -27,7 +27,7 @@ A list of Jeff's publications is also available through
 
 
 ## 2026
-* Zhu, H.<sup>&#8224;</sup>, Simons, Y. B., __Spence, J. P.__, Sella, G.<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [Genetic architectures of brain-related traits are shaped by strong selective constraints](https://doi.org/10.1073/pnas.2609814123) _PNAS_.
+* Zhu, H.<sup>&#8224;</sup>, Simons, Y. B., __Spence, J. P.__, Sella, G.<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [Genetic architectures of brain-related traits are shaped by strong selective constraints](https://doi.org/10.1073/pnas.2609814123) _PNAS_ (2026).
 
 
 * Judd, J.<sup>&#8224;</sup>, __Spence, J. P.__<sup>&#8224;</sup>, Milind, N., Kachuri, L., Witte, J. S., and Pritchard, J. K.<sup>&#8224;</sup> [Allele frequencies at recessive disease genes are mainly determined by pleiotropic effects in heterozygotes.](https://doi.org/10.1093/genetics/iyag150) _Genetics_ (2026).
