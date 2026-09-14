@@ -20,17 +20,17 @@ A list of Jeff's publications is also available through
 <br>
 
 ## Preprints
-* __Spence, J. P.__ and Patel, R. A. [Insights into human evolution from large genetic biobanks](https://arxiv.org/abs/2609.12297) _arXiv preprint_.
+* __Spence, J. P.__ and Patel, R. A. [Insights into human evolution from large genetic biobanks.](https://arxiv.org/abs/2609.12297) _arXiv preprint_.
 
 
-* Deng, Y.<sup>&#8224;</sup>, Pritchard, J. K.<sup>&#8224;</sup>, and __Spence, J. P.__<sup>&#8224;</sup> [Coalescent-Based Time-Stratified Statistics Reveal Population Structure Dynamics using the Ancestral Recombination Graph](https://doi.org/10.64898/2026.08.11.744210) _bioRxiv preprint_.
+* Deng, Y.<sup>&#8224;</sup>, Pritchard, J. K.<sup>&#8224;</sup>, and __Spence, J. P.__<sup>&#8224;</sup> [Coalescent-Based Time-Stratified Statistics Reveal Population Structure Dynamics using the Ancestral Recombination Graph.](https://doi.org/10.64898/2026.08.11.744210) _bioRxiv preprint_.
 
 
 * Gerlach, P. A.\*<sup>&#8224;</sup>, Milind, N.\*<sup>&#8224;</sup>, __Spence, J. P.__<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [High false sign rates in transcriptome-wide association studies.](https://doi.org/10.64898/2025.12.19.695550) _bioRxiv preprint_.
 
 
 ## 2026
-* Zhu, H.<sup>&#8224;</sup>, Simons, Y. B., __Spence, J. P.__, Sella, G.<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [Genetic architectures of brain-related traits are shaped by strong selective constraints](https://doi.org/10.1073/pnas.2609814123) _PNAS_ (2026).
+* Zhu, H.<sup>&#8224;</sup>, Simons, Y. B., __Spence, J. P.__, Sella, G.<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [Genetic architectures of brain-related traits are shaped by strong selective constraints.](https://doi.org/10.1073/pnas.2609814123) _PNAS_ (2026).
 
 
 * Judd, J.<sup>&#8224;</sup>, __Spence, J. P.__<sup>&#8224;</sup>, Milind, N., Kachuri, L., Witte, J. S., and Pritchard, J. K.<sup>&#8224;</sup> [Allele frequencies at recessive disease genes are mainly determined by pleiotropic effects in heterozygotes.](https://doi.org/10.1093/genetics/iyag150) _Genetics_ (2026).
