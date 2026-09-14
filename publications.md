@@ -20,6 +20,9 @@ A list of Jeff's publications is also available through
 <br>
 
 ## Preprints
+* __Spence, J. P.__ and Patel, R. A. [Insights into human evolution from large genetic biobanks](https://arxiv.org/abs/2609.12297) _arXiv preprint_.
+
+
 * Deng, Y.<sup>&#8224;</sup>, Pritchard, J. K.<sup>&#8224;</sup>, and __Spence, J. P.__<sup>&#8224;</sup> [Coalescent-Based Time-Stratified Statistics Reveal Population Structure Dynamics using the Ancestral Recombination Graph](https://doi.org/10.64898/2026.08.11.744210) _bioRxiv preprint_.
 
 
