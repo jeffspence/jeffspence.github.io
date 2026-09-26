@@ -30,6 +30,8 @@ A list of Jeff's publications is also available through
 
 
 ## 2026
+*  Chen, J.\*, Du, X.\*, Zheng, Z.\*, Gorkhali, N. A.\*, _et al._ [Ancient introgression drives wild boar expansion and phenotypic diversification of domestic pigs.](https://doi.org/10.1126/science.adq7553) _Science_ (2026).
+
 * Zhu, H.<sup>&#8224;</sup>, Simons, Y. B., __Spence, J. P.__, Sella, G.<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [Genetic architectures of brain-related traits are shaped by strong selective constraints.](https://doi.org/10.1073/pnas.2609814123) _PNAS_ (2026).
 
 
