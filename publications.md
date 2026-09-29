@@ -56,7 +56,7 @@ A list of Jeff's publications is also available through
     [\[research highlight\]](https://www.nature.com/articles/s41588-025-02459-w)
 
 
-* Batra, S. S.\*, Cabrera, A.\*, __Spence, J. P.__\*, Goell, H., Anand, S. S., Hilton, I. B., and Song, Y. S. [Predicting the effects of CRIS citationPR-Cas9-based epigenome editing.](https://doi.org/10.7554/eLife.92991.4) _eLife_ (2026).
+* Batra, S. S.\*, Cabrera, A.\*, __Spence, J. P.__\*, Goell, H., Anand, S. S., Hilton, I. B., and Song, Y. S. [Predicting the effects of CRISPR-Cas9-based epigenome editing.](https://doi.org/10.7554/eLife.92991.4) _eLife_ (2026).
 
 
 ## 2025
