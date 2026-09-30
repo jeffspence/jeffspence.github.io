@@ -20,9 +20,6 @@ A list of Jeff's publications is also available through
 <br>
 
 ## Preprints
-* __Spence, J. P.__ and Patel, R. A. [Insights into human evolution from large genetic biobanks.](https://arxiv.org/abs/2609.12297) _arXiv preprint_.
-
-
 * Deng, Y.<sup>&#8224;</sup>, Pritchard, J. K.<sup>&#8224;</sup>, and __Spence, J. P.__<sup>&#8224;</sup> [Coalescent-Based Time-Stratified Statistics Reveal Population Structure Dynamics using the Ancestral Recombination Graph.](https://doi.org/10.64898/2026.08.11.744210) _bioRxiv preprint_.
 
 
@@ -30,6 +27,8 @@ A list of Jeff's publications is also available through
 
 
 ## 2026
+* __Spence, J. P.__ and Patel, R. A. [Insights into human evolution from large genetic biobanks.](https://doi.org/10.1016/j.gde.2026.102545) _Current Opinion in Genetics & Development_ (2026).
+
 *  Chen, J.\*, Du, X.\*, Zheng, Z.\*, Gorkhali, N. A.\*, _et al._ [Ancient introgression drives wild boar expansion and phenotypic diversification of domestic pigs.](https://doi.org/10.1126/science.adq7553) _Science_ (2026).
 
 * Zhu, H.<sup>&#8224;</sup>, Simons, Y. B., __Spence, J. P.__, Sella, G.<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [Genetic architectures of brain-related traits are shaped by strong selective constraints.](https://doi.org/10.1073/pnas.2609814123) _PNAS_ (2026).
