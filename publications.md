@@ -20,6 +20,9 @@ A list of Jeff's publications is also available through
 <br>
 
 ## Preprints
+* Dann, E.\*<sup>&#8224;</sup>, __Spence, J. P.__\*<sup>&#8224;</sup>, Ota, M., Engreitz, J. M., Marson, A., Pritchard, J. K.<sup>&#8224;</sup>  [Trait Causal Models: from GWAS, perturbations, and omics to predictive models of human biology](https://doi.org/10.5281/zenodo.23426257) _Zenodo preprint_.
+[\[.pdf\]](/assets/tcms.pdf)
+
 * Deng, Y.<sup>&#8224;</sup>, Pritchard, J. K.<sup>&#8224;</sup>, and __Spence, J. P.__<sup>&#8224;</sup> [Coalescent-Based Time-Stratified Statistics Reveal Population Structure Dynamics using the Ancestral Recombination Graph.](https://doi.org/10.64898/2026.08.11.744210) _bioRxiv preprint_.
 
 
