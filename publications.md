@@ -26,10 +26,10 @@ A list of Jeff's publications is also available through
 * Deng, Y.<sup>&#8224;</sup>, Pritchard, J. K.<sup>&#8224;</sup>, and __Spence, J. P.__<sup>&#8224;</sup> [Coalescent-Based Time-Stratified Statistics Reveal Population Structure Dynamics using the Ancestral Recombination Graph.](https://doi.org/10.64898/2026.08.11.744210) _bioRxiv preprint_.
 
 
-* Gerlach, P. A.\*<sup>&#8224;</sup>, Milind, N.\*<sup>&#8224;</sup>, __Spence, J. P.__<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [High false sign rates in transcriptome-wide association studies.](https://doi.org/10.64898/2025.12.19.695550) _bioRxiv preprint_.
-
-
 ## 2026
+* Gerlach, P. A.\*<sup>&#8224;</sup>, Milind, N.\*<sup>&#8224;</sup>, __Spence, J. P.__<sup>&#8224;</sup>, and Pritchard, J. K.<sup>&#8224;</sup> [High false sign rates in transcriptome-wide association studies.](https://doi.org/10.1038/s41588-026-02796-4) _Nature Genetics_ (2026).
+
+
 * __Spence, J. P.__ and Patel, R. A. [Insights into human evolution from large genetic biobanks.](https://doi.org/10.1016/j.gde.2026.102545) _Current Opinion in Genetics & Development_ (2026).
 
 *  Chen, J.\*, Du, X.\*, Zheng, Z.\*, Gorkhali, N. A.\*, _et al._ [Ancient introgression drives wild boar expansion and phenotypic diversification of domestic pigs.](https://doi.org/10.1126/science.adq7553) _Science_ (2026).
